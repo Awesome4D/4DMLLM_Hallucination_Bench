@@ -1,0 +1,27 @@
+[
+  {
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.691
+  },
+  {
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.693
+  },
+  {
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.42
+  },
+  {
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.5905
+  },
+  {
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.527
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "model": "NoMeta",
+    "category": "object_existence",
+    "kind": "binary",
+    "label": "Yes.",
+    "recall": 0.498
+  },
+  {
+    "model": "NoMeta",
+    "category": "object_existence",
+    "kind": "binary",
+    "label": "No.",
+    "recall": 0.828
+  },
+  {
+    "model": "NoMeta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.015748031496062992
+  },
+  {
+    "model": "NoMeta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.021551724137931036
+  },
+  {
+    "model": "NoMeta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.030303030303030304
+  },
+  {
+    "model": "NoMeta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.0
+  },
+  {
+    "model": "NoMeta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.0
+  },
+  {
+    "model": "NoMeta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.0
+  },
+  {
+    "model": "NoMeta",
+    "category": "ego_relative_spatial",
+    "kind": "binary",
+    "label": "Yes.",
+    "recall": 0.698
+  },
+  {
+    "model": "NoMeta",
+    "category": "ego_relative_spatial",
+    "kind": "binary",
+    "label": "No.",
+    "recall": 0.216
+  },
+  {
+    "model": "NoMeta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 0.9647058823529412
+  },
+  {
+    "model": "NoMeta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.008130081300813009
+  },
+  {
+    "model": "NoMeta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.04741379310344827
+  },
+  {
+    "model": "NoMeta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.00749063670411985
+  },
+  {
+    "model": "NoMeta",
+    "category": "motion_action",
+    "kind": "binary",
+    "label": "Yes.",
+    "recall": 0.195
+  },
+  {
+    "model": "NoMeta",
+    "category": "motion_action",
+    "kind": "binary",
+    "label": "No.",
+    "recall": 0.853
+  },
+  {
+    "model": "NoMeta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 0.9897119341563786
+  },
+  {
+    "model": "NoMeta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.005366726296958855
+  },
+  {
+    "model": "NoMeta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.0
+  },
+  {
+    "model": "NoMeta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.004246284501061571
+  },
+  {
+    "model": "Meta",
+    "category": "object_existence",
+    "kind": "binary",
+    "label": "Yes.",
+    "recall": 0.406
+  },
+  {
+    "model": "Meta",
+    "category": "object_existence",
+    "kind": "binary",
+    "label": "No.",
+    "recall": 0.938
+  },
+  {
+    "model": "Meta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 1.0
+  },
+  {
+    "model": "Meta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.03937007874015748
+  },
+  {
+    "model": "Meta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.008620689655172414
+  },
+  {
+    "model": "Meta",
+    "category": "object_existence",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.003787878787878788
+  },
+  {
+    "model": "Meta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 1.0
+  },
+  {
+    "model": "Meta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.0
+  },
+  {
+    "model": "Meta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.0
+  },
+  {
+    "model": "Meta",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.0
+  },
+  {
+    "model": "Meta",
+    "category": "ego_relative_spatial",
+    "kind": "binary",
+    "label": "Yes.",
+    "recall": 0.638
+  },
+  {
+    "model": "Meta",
+    "category": "ego_relative_spatial",
+    "kind": "binary",
+    "label": "No.",
+    "recall": 0.252
+  },
+  {
+    "model": "Meta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 0.8470588235294118
+  },
+  {
+    "model": "Meta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.052845528455284556
+  },
+  {
+    "model": "Meta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.1336206896551724
+  },
+  {
+    "model": "Meta",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.03745318352059925
+  },
+  {
+    "model": "Meta",
+    "category": "motion_action",
+    "kind": "binary",
+    "label": "Yes.",
+    "recall": 0.13
+  },
+  {
+    "model": "Meta",
+    "category": "motion_action",
+    "kind": "binary",
+    "label": "No.",
+    "recall": 0.87
+  },
+  {
+    "model": "Meta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "A",
+    "recall": 0.9794238683127572
+  },
+  {
+    "model": "Meta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "B",
+    "recall": 0.01967799642218247
+  },
+  {
+    "model": "Meta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "C",
+    "recall": 0.0
+  },
+  {
+    "model": "Meta",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "label": "D",
+    "recall": 0.0021231422505307855
+  }
+]

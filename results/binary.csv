@@ -1,0 +1,7 @@
+n,accuracy,valid_rate,balanced_accuracy,recall,gold_counts,prediction_counts,tpr,fpr,fnr,model,condition,category,kind
+1000,0.663,1.0,0.663,"{'Yes.': 0.498, 'No.': 0.828}","{'Yes.': 500, 'No.': 500}","{'No.': 665, 'Yes.': 335}",0.498,0.172,0.502,NoMeta,Base,object_existence,binary
+1000,0.457,1.0,0.45699999999999996,"{'Yes.': 0.698, 'No.': 0.216}","{'No.': 500, 'Yes.': 500}","{'Yes.': 741, 'No.': 259}",0.698,0.784,0.302,NoMeta,Base,ego_relative_spatial,binary
+2000,0.524,1.0,0.524,"{'Yes.': 0.195, 'No.': 0.853}","{'Yes.': 1000, 'No.': 1000}","{'No.': 1658, 'Yes.': 342}",0.195,0.147,0.805,NoMeta,Base,motion_action,binary
+1000,0.672,1.0,0.6719999999999999,"{'Yes.': 0.406, 'No.': 0.938}","{'Yes.': 500, 'No.': 500}","{'No.': 766, 'Yes.': 234}",0.406,0.062,0.594,Meta,Base,object_existence,binary
+1000,0.445,1.0,0.445,"{'Yes.': 0.638, 'No.': 0.252}","{'No.': 500, 'Yes.': 500}","{'Yes.': 693, 'No.': 307}",0.638,0.748,0.362,Meta,Base,ego_relative_spatial,binary
+2000,0.5,1.0,0.5,"{'Yes.': 0.13, 'No.': 0.87}","{'Yes.': 1000, 'No.': 1000}","{'No.': 1740, 'Yes.': 260}",0.13,0.13,0.87,Meta,Base,motion_action,binary

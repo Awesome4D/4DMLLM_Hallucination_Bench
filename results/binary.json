@@ -1,0 +1,152 @@
+[
+  {
+    "n": 1000,
+    "accuracy": 0.663,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.663,
+    "recall": {
+      "Yes.": 0.498,
+      "No.": 0.828
+    },
+    "gold_counts": {
+      "Yes.": 500,
+      "No.": 500
+    },
+    "prediction_counts": {
+      "No.": 665,
+      "Yes.": 335
+    },
+    "tpr": 0.498,
+    "fpr": 0.172,
+    "fnr": 0.502,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "object_existence",
+    "kind": "binary"
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.457,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.45699999999999996,
+    "recall": {
+      "Yes.": 0.698,
+      "No.": 0.216
+    },
+    "gold_counts": {
+      "No.": 500,
+      "Yes.": 500
+    },
+    "prediction_counts": {
+      "Yes.": 741,
+      "No.": 259
+    },
+    "tpr": 0.698,
+    "fpr": 0.784,
+    "fnr": 0.302,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "ego_relative_spatial",
+    "kind": "binary"
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.524,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.524,
+    "recall": {
+      "Yes.": 0.195,
+      "No.": 0.853
+    },
+    "gold_counts": {
+      "Yes.": 1000,
+      "No.": 1000
+    },
+    "prediction_counts": {
+      "No.": 1658,
+      "Yes.": 342
+    },
+    "tpr": 0.195,
+    "fpr": 0.147,
+    "fnr": 0.805,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "motion_action",
+    "kind": "binary"
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.672,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.6719999999999999,
+    "recall": {
+      "Yes.": 0.406,
+      "No.": 0.938
+    },
+    "gold_counts": {
+      "Yes.": 500,
+      "No.": 500
+    },
+    "prediction_counts": {
+      "No.": 766,
+      "Yes.": 234
+    },
+    "tpr": 0.406,
+    "fpr": 0.062,
+    "fnr": 0.594,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "object_existence",
+    "kind": "binary"
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.445,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.445,
+    "recall": {
+      "Yes.": 0.638,
+      "No.": 0.252
+    },
+    "gold_counts": {
+      "No.": 500,
+      "Yes.": 500
+    },
+    "prediction_counts": {
+      "Yes.": 693,
+      "No.": 307
+    },
+    "tpr": 0.638,
+    "fpr": 0.748,
+    "fnr": 0.362,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "ego_relative_spatial",
+    "kind": "binary"
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.5,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.5,
+    "recall": {
+      "Yes.": 0.13,
+      "No.": 0.87
+    },
+    "gold_counts": {
+      "Yes.": 1000,
+      "No.": 1000
+    },
+    "prediction_counts": {
+      "No.": 1740,
+      "Yes.": 260
+    },
+    "tpr": 0.13,
+    "fpr": 0.13,
+    "fnr": 0.87,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "motion_action",
+    "kind": "binary"
+  }
+]
