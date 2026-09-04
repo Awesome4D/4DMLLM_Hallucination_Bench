@@ -1,0 +1,54 @@
+name: Preserve original thesis implementation
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/preserve-original.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore hash-verified original files
+        run: |
+          python3 - <<'PY'
+          import base64,hashlib,json,lzma
+          from pathlib import Path
+          parts=sorted(Path('.migration').glob('legacy.*.b64'))
+          if not parts:
+              report=json.loads(Path('docs/LEGACY_MANIFEST.json').read_text())
+              for name,digest in report['files'].items():
+                  assert hashlib.sha256((Path('legacy')/name).read_bytes()).hexdigest()==digest
+              print('Previously restored legacy files verified:',len(report['files']))
+              raise SystemExit(0)
+          assert len(parts)==4
+          text=''.join(p.read_text().strip() for p in parts)
+          raw=lzma.decompress(base64.b64decode(text,validate=True))
+          digest=hashlib.sha256(raw).hexdigest()
+          assert digest=='5a46697c015cf77f71268aa22561466d6c46d735a5c41e0dc675e384fb391d7e'
+          files=json.loads(raw)
+          assert len(files)==39
+          manifest={'source':'Uploaded hallucination_benchmark_project-main.zip','transport_json_sha256':digest,'files':{}}
+          for name,content in files.items():
+              rel=Path(name)
+              assert not rel.is_absolute() and '..' not in rel.parts
+              path=Path('legacy')/rel
+              path.parent.mkdir(parents=True,exist_ok=True)
+              path.write_bytes(content.encode('utf-8'))
+              manifest['files'][name]=hashlib.sha256(path.read_bytes()).hexdigest()
+          Path('docs/LEGACY_MANIFEST.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          for p in parts:p.unlink()
+          print('Verified and restored 39 original files.')
+          PY
+      - name: Commit preserved implementation
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A legacy docs/LEGACY_MANIFEST.json .migration
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve all 39 original thesis scripts byte-for-byte with SHA-256 manifest [skip ci]'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
