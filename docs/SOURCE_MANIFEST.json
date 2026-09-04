@@ -1,0 +1,18 @@
+{
+  "master_thesis.zip": {
+    "bytes": 14310211,
+    "sha256": "87b4ad64a8918c7eff6f47ae5447461d7a950af5a8a75be3b18864d7ef1e2692"
+  },
+  "hallucination_benchmark_project-main.zip": {
+    "bytes": 62106,
+    "sha256": "7674d70b57d1625ed283740b4d29f845501ada476770976068c70a923e8d7929"
+  },
+  "b4dl_dataset.zip": {
+    "bytes": 4771522,
+    "sha256": "face9fed1cac30689a3891b38f33b5299e7dbf12faaf4e0f25044360e241a207"
+  },
+  "b4dl_eval.zip": {
+    "bytes": 15886960,
+    "sha256": "04d3ab515a802d1440ce56d71b4654f271ddecef800bdb3f42caf4976c9097ed"
+  }
+}

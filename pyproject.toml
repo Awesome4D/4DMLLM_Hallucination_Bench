@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lidar-hallu"
+version = "0.2.0"
+description = "Prior-aware evaluation of 4D LiDAR language model responses"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+include = ["lidar_hallu*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
