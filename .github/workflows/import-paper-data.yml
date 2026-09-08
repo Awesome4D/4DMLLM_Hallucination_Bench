@@ -1,0 +1,53 @@
+name: Import complete thesis benchmark and predictions
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/import-paper-data.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: import-paper-data
+  cancel-in-progress: false
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install analysis and import dependencies
+        run: python -m pip install -e '.[test]' gdown
+      - name: Download exact originals, preserve bytes, and validate all records
+        run: python scripts/materialize_paper_data.py --download
+      - name: Test and reproduce from the actual imported data
+        env:
+          OPENBLAS_NUM_THREADS: '1'
+        run: |
+          set -euo pipefail
+          python -m pytest -q | tee data/manifests/import_tests.txt
+          python -m lidar_hallu.analyze --dataset data/b4dl_dataset --predictions data/b4dl_eval --output "$RUNNER_TEMP/import_reanalysis"
+          python -m lidar_hallu.priors --dataset data/b4dl_dataset --output "$RUNNER_TEMP/import_reanalysis"
+          python -m lidar_hallu.conflicts --predictions data/b4dl_eval --output "$RUNNER_TEMP/import_reanalysis"
+      - name: Commit source data and manifests, never force-push
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f data/archives/b4dl_dataset.zip data/archives/b4dl_eval.zip data/b4dl_dataset data/b4dl_eval data/manifests
+          if ! git diff --cached --quiet; then
+            git commit -m 'Store full 10k benchmark and 100k original predictions with verified manifests [skip ci]'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          git rev-parse HEAD
+      - name: Retain the independent reanalysis report
+        uses: actions/upload-artifact@v4
+        with:
+          name: imported-data-reanalysis
+          path: ${{ runner.temp }}/import_reanalysis/
+          if-no-files-found: error
