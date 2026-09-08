@@ -1,0 +1,347 @@
+[
+  {
+    "n": 1000,
+    "accuracy": 0.267,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.2669006964842561,
+    "recall": {
+      "A": 1.0,
+      "B": 0.015748031496062992,
+      "C": 0.021551724137931036,
+      "D": 0.030303030303030304
+    },
+    "gold_counts": {
+      "A": 250,
+      "D": 264,
+      "B": 254,
+      "C": 232
+    },
+    "prediction_counts": {
+      "A": 983,
+      "D": 8,
+      "C": 5,
+      "B": 4
+    },
+    "always_a": 0.25,
+    "a_rate": 0.983,
+    "rescue": 17,
+    "damage": 0,
+    "excess": 0.017,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "object_existence",
+    "kind": "mcq",
+    "ci_low": 0.009374926780693533,
+    "ci_high": 0.02551573725367155
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.2415,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.25,
+    "recall": {
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "gold_counts": {
+      "B": 513,
+      "C": 505,
+      "D": 499,
+      "A": 483
+    },
+    "prediction_counts": {
+      "A": 2000
+    },
+    "always_a": 0.2415,
+    "a_rate": 1.0,
+    "rescue": 0,
+    "damage": 0,
+    "excess": 0.0,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "ci_low": 0.0,
+    "ci_high": 0.0
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.261,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.25693509836533057,
+    "recall": {
+      "A": 0.9647058823529412,
+      "B": 0.008130081300813009,
+      "C": 0.04741379310344827,
+      "D": 0.00749063670411985
+    },
+    "gold_counts": {
+      "A": 255,
+      "D": 267,
+      "B": 246,
+      "C": 232
+    },
+    "prediction_counts": {
+      "A": 956,
+      "C": 36,
+      "D": 5,
+      "B": 3
+    },
+    "always_a": 0.255,
+    "a_rate": 0.956,
+    "rescue": 15,
+    "damage": 9,
+    "excess": 0.006,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "ci_low": -0.003593319107842712,
+    "ci_high": 0.015837163798993723
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.243,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.24983123623859976,
+    "recall": {
+      "A": 0.9897119341563786,
+      "B": 0.005366726296958855,
+      "C": 0.0,
+      "D": 0.004246284501061571
+    },
+    "gold_counts": {
+      "A": 486,
+      "D": 471,
+      "B": 559,
+      "C": 484
+    },
+    "prediction_counts": {
+      "A": 1986,
+      "B": 10,
+      "D": 3,
+      "C": 1
+    },
+    "always_a": 0.243,
+    "a_rate": 0.993,
+    "rescue": 5,
+    "damage": 5,
+    "excess": 0.0,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "ci_low": -0.0030519208219114253,
+    "ci_high": 0.0030707030135745076
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.263,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.26294466179580217,
+    "recall": {
+      "A": 1.0,
+      "B": 0.03937007874015748,
+      "C": 0.008620689655172414,
+      "D": 0.003787878787878788
+    },
+    "gold_counts": {
+      "A": 250,
+      "D": 264,
+      "B": 254,
+      "C": 232
+    },
+    "prediction_counts": {
+      "A": 987,
+      "B": 10,
+      "C": 2,
+      "D": 1
+    },
+    "always_a": 0.25,
+    "a_rate": 0.987,
+    "rescue": 13,
+    "damage": 0,
+    "excess": 0.013,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "object_existence",
+    "kind": "mcq",
+    "ci_low": 0.006191472690440699,
+    "ci_high": 0.020912642206838045
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.2415,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.25,
+    "recall": {
+      "A": 1.0,
+      "B": 0.0,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "gold_counts": {
+      "B": 513,
+      "C": 505,
+      "D": 499,
+      "A": 483
+    },
+    "prediction_counts": {
+      "A": 2000
+    },
+    "always_a": 0.2415,
+    "a_rate": 1.0,
+    "rescue": 0,
+    "damage": 0,
+    "excess": 0.0,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "ci_low": 0.0,
+    "ci_high": 0.0
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.27,
+    "valid_rate": 0.994,
+    "balanced_accuracy": 0.267744556290117,
+    "recall": {
+      "A": 0.8470588235294118,
+      "B": 0.052845528455284556,
+      "C": 0.1336206896551724,
+      "D": 0.03745318352059925
+    },
+    "gold_counts": {
+      "A": 255,
+      "D": 267,
+      "B": 246,
+      "C": 232
+    },
+    "prediction_counts": {
+      "A": 830,
+      "C": 101,
+      "B": 34,
+      "D": 29,
+      "<invalid>": 6
+    },
+    "always_a": 0.255,
+    "a_rate": 0.83,
+    "rescue": 54,
+    "damage": 39,
+    "excess": 0.015,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "ci_low": -0.0057972416113026655,
+    "ci_high": 0.03574790607205021
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.244,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.2503062517463676,
+    "recall": {
+      "A": 0.9794238683127572,
+      "B": 0.01967799642218247,
+      "C": 0.0,
+      "D": 0.0021231422505307855
+    },
+    "gold_counts": {
+      "A": 486,
+      "D": 471,
+      "B": 559,
+      "C": 484
+    },
+    "prediction_counts": {
+      "A": 1970,
+      "D": 2,
+      "B": 28
+    },
+    "always_a": 0.243,
+    "a_rate": 0.985,
+    "rescue": 12,
+    "damage": 10,
+    "excess": 0.001,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "distance_depth",
+    "kind": "mcq",
+    "ci_low": -0.0038095238095238095,
+    "ci_high": 0.005905511811023622
+  },
+  {
+    "n": 6000,
+    "accuracy": 0.2495,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.2538083990672199,
+    "recall": {
+      "A": 0.9905020352781547,
+      "B": 0.0057251908396946565,
+      "C": 0.011011699931176875,
+      "D": 0.007994670219853431
+    },
+    "gold_counts": {
+      "A": 1474,
+      "D": 1501,
+      "B": 1572,
+      "C": 1453
+    },
+    "prediction_counts": {
+      "A": 5925,
+      "D": 16,
+      "C": 42,
+      "B": 17
+    },
+    "always_a": 0.24566666666666667,
+    "a_rate": 0.9875,
+    "rescue": 37,
+    "damage": 14,
+    "excess": 0.003833333333333333,
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "All MCQ",
+    "kind": "mcq",
+    "ci_low": 0.0015601779424335098,
+    "ci_high": 0.006175975510866489
+  },
+  {
+    "n": 6000,
+    "accuracy": 0.25066666666666665,
+    "valid_rate": 0.999,
+    "balanced_accuracy": 0.25477298088229566,
+    "recall": {
+      "A": 0.9667571234735414,
+      "B": 0.021628498727735368,
+      "C": 0.022711631108052306,
+      "D": 0.007994670219853431
+    },
+    "gold_counts": {
+      "A": 1474,
+      "D": 1501,
+      "B": 1572,
+      "C": 1453
+    },
+    "prediction_counts": {
+      "A": 5787,
+      "B": 72,
+      "C": 103,
+      "D": 32,
+      "<invalid>": 6
+    },
+    "always_a": 0.24566666666666667,
+    "a_rate": 0.9645,
+    "rescue": 79,
+    "damage": 49,
+    "excess": 0.005,
+    "model": "Meta",
+    "condition": "Base",
+    "category": "All MCQ",
+    "kind": "mcq",
+    "ci_low": 0.0010231662138512705,
+    "ci_high": 0.008995324153956272
+  }
+]

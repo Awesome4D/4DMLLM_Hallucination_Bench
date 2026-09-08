@@ -1,0 +1,61 @@
+model,condition,category,n,accuracy,legacy_accuracy,valid_rate
+NoMeta,Base,object_existence,2000,0.465,0.465,1.0
+NoMeta,Base,temporal_grounding,2000,0.2415,0.2415,1.0
+NoMeta,Base,ego_relative_spatial,2000,0.359,0.359,1.0
+NoMeta,Base,motion_action,2000,0.524,0.524,1.0
+NoMeta,Base,distance_depth,2000,0.243,0.243,1.0
+NoMeta,Base,Overall,10000,0.3665,0.3665,1.0
+NoMeta,Prompt,object_existence,2000,0.4635,0.4635,1.0
+NoMeta,Prompt,temporal_grounding,2000,0.2415,0.2415,1.0
+NoMeta,Prompt,ego_relative_spatial,2000,0.3605,0.361,0.9965
+NoMeta,Prompt,motion_action,2000,0.514,0.514,1.0
+NoMeta,Prompt,distance_depth,2000,0.2495,0.2495,0.999
+NoMeta,Prompt,Overall,10000,0.3658,0.3659,0.9991
+NoMeta,TSCD .5,object_existence,2000,0.461,0.461,1.0
+NoMeta,TSCD .5,temporal_grounding,2000,0.2415,0.2415,1.0
+NoMeta,TSCD .5,ego_relative_spatial,2000,0.36,0.36,0.9995
+NoMeta,TSCD .5,motion_action,2000,0.527,0.527,1.0
+NoMeta,TSCD .5,distance_depth,2000,0.2445,0.2445,1.0
+NoMeta,TSCD .5,Overall,10000,0.3668,0.3668,0.9999
+NoMeta,TSCD 1,object_existence,2000,0.461,0.461,1.0
+NoMeta,TSCD 1,temporal_grounding,2000,0.2415,0.2415,1.0
+NoMeta,TSCD 1,ego_relative_spatial,2000,0.36,0.36,0.9995
+NoMeta,TSCD 1,motion_action,2000,0.527,0.527,1.0
+NoMeta,TSCD 1,distance_depth,2000,0.245,0.245,1.0
+NoMeta,TSCD 1,Overall,10000,0.3669,0.3669,0.9999
+NoMeta,TSCD 1.5,object_existence,2000,0.4615,0.4615,1.0
+NoMeta,TSCD 1.5,temporal_grounding,2000,0.2415,0.2415,1.0
+NoMeta,TSCD 1.5,ego_relative_spatial,2000,0.36,0.36,0.9995
+NoMeta,TSCD 1.5,motion_action,2000,0.5255,0.5255,1.0
+NoMeta,TSCD 1.5,distance_depth,2000,0.2455,0.2455,1.0
+NoMeta,TSCD 1.5,Overall,10000,0.3668,0.3668,0.9999
+Meta,Base,object_existence,2000,0.4675,0.4675,1.0
+Meta,Base,temporal_grounding,2000,0.2415,0.2415,1.0
+Meta,Base,ego_relative_spatial,2000,0.3575,0.358,0.997
+Meta,Base,motion_action,2000,0.5,0.5,1.0
+Meta,Base,distance_depth,2000,0.244,0.244,1.0
+Meta,Base,Overall,10000,0.3621,0.3622,0.9994
+Meta,Prompt,object_existence,2000,0.459,0.459,1.0
+Meta,Prompt,temporal_grounding,2000,0.2415,0.2415,1.0
+Meta,Prompt,ego_relative_spatial,2000,0.342,0.343,0.941
+Meta,Prompt,motion_action,2000,0.4965,0.4965,1.0
+Meta,Prompt,distance_depth,2000,0.238,0.251,0.9615
+Meta,Prompt,Overall,10000,0.3554,0.3582,0.9805
+Meta,TSCD .5,object_existence,2000,0.4665,0.4665,1.0
+Meta,TSCD .5,temporal_grounding,2000,0.2415,0.2415,1.0
+Meta,TSCD .5,ego_relative_spatial,2000,0.3605,0.361,0.9965
+Meta,TSCD .5,motion_action,2000,0.505,0.505,1.0
+Meta,TSCD .5,distance_depth,2000,0.2445,0.2445,1.0
+Meta,TSCD .5,Overall,10000,0.3636,0.3637,0.9993
+Meta,TSCD 1,object_existence,2000,0.467,0.467,1.0
+Meta,TSCD 1,temporal_grounding,2000,0.2415,0.2415,1.0
+Meta,TSCD 1,ego_relative_spatial,2000,0.362,0.3625,0.9965
+Meta,TSCD 1,motion_action,2000,0.5045,0.5045,1.0
+Meta,TSCD 1,distance_depth,2000,0.2445,0.2445,1.0
+Meta,TSCD 1,Overall,10000,0.3639,0.364,0.9993
+Meta,TSCD 1.5,object_existence,2000,0.468,0.468,1.0
+Meta,TSCD 1.5,temporal_grounding,2000,0.2415,0.2415,1.0
+Meta,TSCD 1.5,ego_relative_spatial,2000,0.3625,0.363,0.9965
+Meta,TSCD 1.5,motion_action,2000,0.5035,0.5035,1.0
+Meta,TSCD 1.5,distance_depth,2000,0.2445,0.2445,1.0
+Meta,TSCD 1.5,Overall,10000,0.364,0.3641,0.9993

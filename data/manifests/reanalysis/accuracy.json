@@ -1,0 +1,542 @@
+[
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.465,
+    "legacy_accuracy": 0.465,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.359,
+    "legacy_accuracy": 0.359,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.524,
+    "legacy_accuracy": 0.524,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.243,
+    "legacy_accuracy": 0.243,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3665,
+    "legacy_accuracy": 0.3665,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.4635,
+    "legacy_accuracy": 0.4635,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.3605,
+    "legacy_accuracy": 0.361,
+    "valid_rate": 0.9965
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.514,
+    "legacy_accuracy": 0.514,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.2495,
+    "legacy_accuracy": 0.2495,
+    "valid_rate": 0.999
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3658,
+    "legacy_accuracy": 0.3659,
+    "valid_rate": 0.9991
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.461,
+    "legacy_accuracy": 0.461,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.36,
+    "legacy_accuracy": 0.36,
+    "valid_rate": 0.9995
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.527,
+    "legacy_accuracy": 0.527,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.2445,
+    "legacy_accuracy": 0.2445,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3668,
+    "legacy_accuracy": 0.3668,
+    "valid_rate": 0.9999
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.461,
+    "legacy_accuracy": 0.461,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.36,
+    "legacy_accuracy": 0.36,
+    "valid_rate": 0.9995
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.527,
+    "legacy_accuracy": 0.527,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.245,
+    "legacy_accuracy": 0.245,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3669,
+    "legacy_accuracy": 0.3669,
+    "valid_rate": 0.9999
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.4615,
+    "legacy_accuracy": 0.4615,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.36,
+    "legacy_accuracy": 0.36,
+    "valid_rate": 0.9995
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.5255,
+    "legacy_accuracy": 0.5255,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.2455,
+    "legacy_accuracy": 0.2455,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3668,
+    "legacy_accuracy": 0.3668,
+    "valid_rate": 0.9999
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.4675,
+    "legacy_accuracy": 0.4675,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.3575,
+    "legacy_accuracy": 0.358,
+    "valid_rate": 0.997
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.5,
+    "legacy_accuracy": 0.5,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.244,
+    "legacy_accuracy": 0.244,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3621,
+    "legacy_accuracy": 0.3622,
+    "valid_rate": 0.9994
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.459,
+    "legacy_accuracy": 0.459,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.342,
+    "legacy_accuracy": 0.343,
+    "valid_rate": 0.941
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.4965,
+    "legacy_accuracy": 0.4965,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.238,
+    "legacy_accuracy": 0.251,
+    "valid_rate": 0.9615
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3554,
+    "legacy_accuracy": 0.3582,
+    "valid_rate": 0.9805
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.4665,
+    "legacy_accuracy": 0.4665,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.3605,
+    "legacy_accuracy": 0.361,
+    "valid_rate": 0.9965
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.505,
+    "legacy_accuracy": 0.505,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.2445,
+    "legacy_accuracy": 0.2445,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3636,
+    "legacy_accuracy": 0.3637,
+    "valid_rate": 0.9993
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.467,
+    "legacy_accuracy": 0.467,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.362,
+    "legacy_accuracy": 0.3625,
+    "valid_rate": 0.9965
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.5045,
+    "legacy_accuracy": 0.5045,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.2445,
+    "legacy_accuracy": 0.2445,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.3639,
+    "legacy_accuracy": 0.364,
+    "valid_rate": 0.9993
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "category": "object_existence",
+    "n": 2000,
+    "accuracy": 0.468,
+    "legacy_accuracy": 0.468,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "category": "temporal_grounding",
+    "n": 2000,
+    "accuracy": 0.2415,
+    "legacy_accuracy": 0.2415,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "category": "ego_relative_spatial",
+    "n": 2000,
+    "accuracy": 0.3625,
+    "legacy_accuracy": 0.363,
+    "valid_rate": 0.9965
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "category": "motion_action",
+    "n": 2000,
+    "accuracy": 0.5035,
+    "legacy_accuracy": 0.5035,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "category": "distance_depth",
+    "n": 2000,
+    "accuracy": 0.2445,
+    "legacy_accuracy": 0.2445,
+    "valid_rate": 1.0
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "category": "Overall",
+    "n": 10000,
+    "accuracy": 0.364,
+    "legacy_accuracy": 0.3641,
+    "valid_rate": 0.9993
+  }
+]

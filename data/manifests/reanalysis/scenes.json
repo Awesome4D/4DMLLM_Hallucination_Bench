@@ -1,0 +1,10502 @@
+[
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 71
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 38
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 42
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 44
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 39
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 37
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 36
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 42
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 45
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 36
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 40
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 43
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Base",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 7
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 67
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 38
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 42
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 11
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 44
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 40
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 37
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 36
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 35
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 47
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 37
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 39
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 44
+  },
+  {
+    "model": "NoMeta",
+    "condition": "Prompt",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 71
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 37
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 11
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 46
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 11
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 38
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 35
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 42
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 45
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 36
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 39
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 48
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD .5",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 35
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 71
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 37
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 45
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 11
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 38
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 35
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 42
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 45
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 36
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 39
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 48
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 35
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 32
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 72
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 37
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 45
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 41
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 8
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 11
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 38
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 30
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 25
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 35
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 42
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 45
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 28
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 19
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 24
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 36
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 39
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 21
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 20
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 27
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 16
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 29
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 18
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 31
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 46
+  },
+  {
+    "model": "NoMeta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 73
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 45
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 40
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 41
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 41
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 11
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 46
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 39
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 44
+  },
+  {
+    "model": "Meta",
+    "condition": "Base",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 7
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 71
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 44
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 42
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 40
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 11
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 44
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 39
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 11
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 45
+  },
+  {
+    "model": "Meta",
+    "condition": "Prompt",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 71
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 44
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 39
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 42
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 40
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 11
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 43
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 40
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 48
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD .5",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 72
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 44
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 39
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 42
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 40
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 11
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 43
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 40
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 48
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001000833",
+    "n": 98,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001018437",
+    "n": 79,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001082916",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001282585",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001320604",
+    "n": 68,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001416770",
+    "n": 35,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001544104",
+    "n": 57,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001593463",
+    "n": 90,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001722118",
+    "n": 41,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001782394",
+    "n": 81,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "001863052",
+    "n": 82,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002003262",
+    "n": 82,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002039574",
+    "n": 81,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002051969",
+    "n": 19,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002079350",
+    "n": 40,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002121102",
+    "n": 37,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002222437",
+    "n": 69,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002242917",
+    "n": 65,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002335619",
+    "n": 93,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002345590",
+    "n": 48,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002367184",
+    "n": 63,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002433679",
+    "n": 81,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002440304",
+    "n": 65,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002480472",
+    "n": 98,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002633958",
+    "n": 29,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002642553",
+    "n": 66,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002721208",
+    "n": 120,
+    "correct": 72
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002774969",
+    "n": 98,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002792834",
+    "n": 72,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002817526",
+    "n": 45,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002867953",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002882594",
+    "n": 69,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002928475",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002961505",
+    "n": 84,
+    "correct": 44
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002971874",
+    "n": 70,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002976873",
+    "n": 33,
+    "correct": 8
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "002988708",
+    "n": 24,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003023519",
+    "n": 80,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003034960",
+    "n": 70,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003100313",
+    "n": 91,
+    "correct": 34
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003105904",
+    "n": 72,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003117374",
+    "n": 87,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003171807",
+    "n": 77,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003284067",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003357723",
+    "n": 57,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003411715",
+    "n": 55,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003471078",
+    "n": 76,
+    "correct": 35
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003522924",
+    "n": 71,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003544634",
+    "n": 65,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003588128",
+    "n": 21,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003619392",
+    "n": 74,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003662992",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003705871",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003730368",
+    "n": 66,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003897137",
+    "n": 62,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003964199",
+    "n": 65,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "003994784",
+    "n": 70,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004035421",
+    "n": 72,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004071037",
+    "n": 50,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004279963",
+    "n": 84,
+    "correct": 39
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004382413",
+    "n": 61,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004383842",
+    "n": 114,
+    "correct": 41
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004578825",
+    "n": 79,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004673817",
+    "n": 95,
+    "correct": 41
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004739990",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004771986",
+    "n": 50,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004786749",
+    "n": 70,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004801460",
+    "n": 37,
+    "correct": 11
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "004977537",
+    "n": 91,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005036851",
+    "n": 35,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005107952",
+    "n": 84,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005116728",
+    "n": 71,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005164155",
+    "n": 33,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005254964",
+    "n": 45,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005280034",
+    "n": 63,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005315054",
+    "n": 82,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005420204",
+    "n": 69,
+    "correct": 16
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005463359",
+    "n": 32,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005536384",
+    "n": 76,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005669396",
+    "n": 91,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005745653",
+    "n": 30,
+    "correct": 14
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "005828436",
+    "n": 35,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006018298",
+    "n": 76,
+    "correct": 33
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006081651",
+    "n": 60,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006092198",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006189085",
+    "n": 71,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006249166",
+    "n": 20,
+    "correct": 10
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006315583",
+    "n": 57,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006413433",
+    "n": 58,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006431503",
+    "n": 46,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006443880",
+    "n": 80,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006457017",
+    "n": 69,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006508324",
+    "n": 42,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006512375",
+    "n": 66,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006528942",
+    "n": 100,
+    "correct": 36
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006599465",
+    "n": 82,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006733269",
+    "n": 88,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006767147",
+    "n": 79,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006822972",
+    "n": 72,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006851471",
+    "n": 61,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006936460",
+    "n": 74,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "006996816",
+    "n": 82,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007024509",
+    "n": 98,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007076375",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007212145",
+    "n": 87,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007232498",
+    "n": 43,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007278080",
+    "n": 102,
+    "correct": 37
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007300765",
+    "n": 61,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007471801",
+    "n": 40,
+    "correct": 13
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007514324",
+    "n": 71,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007585865",
+    "n": 74,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007671565",
+    "n": 76,
+    "correct": 31
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007756420",
+    "n": 69,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007780102",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007784450",
+    "n": 81,
+    "correct": 27
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007896150",
+    "n": 84,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007991912",
+    "n": 105,
+    "correct": 43
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "007993799",
+    "n": 70,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008006953",
+    "n": 97,
+    "correct": 29
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008015461",
+    "n": 60,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008042486",
+    "n": 49,
+    "correct": 18
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008111392",
+    "n": 34,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008147953",
+    "n": 50,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008166157",
+    "n": 32,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008231831",
+    "n": 48,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008398120",
+    "n": 91,
+    "correct": 28
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008412787",
+    "n": 65,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008458832",
+    "n": 79,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008603606",
+    "n": 88,
+    "correct": 38
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008656441",
+    "n": 95,
+    "correct": 26
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008760843",
+    "n": 60,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008839143",
+    "n": 63,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008850284",
+    "n": 50,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008872583",
+    "n": 78,
+    "correct": 39
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008912015",
+    "n": 62,
+    "correct": 25
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "008988794",
+    "n": 30,
+    "correct": 12
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009039207",
+    "n": 40,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009055777",
+    "n": 62,
+    "correct": 20
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009129122",
+    "n": 64,
+    "correct": 19
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009304015",
+    "n": 52,
+    "correct": 17
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009320676",
+    "n": 89,
+    "correct": 24
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009399980",
+    "n": 46,
+    "correct": 23
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009469504",
+    "n": 43,
+    "correct": 15
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009481802",
+    "n": 90,
+    "correct": 32
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009501115",
+    "n": 34,
+    "correct": 21
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009530324",
+    "n": 76,
+    "correct": 30
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009539313",
+    "n": 70,
+    "correct": 22
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009555605",
+    "n": 33,
+    "correct": 9
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009771379",
+    "n": 112,
+    "correct": 48
+  },
+  {
+    "model": "Meta",
+    "condition": "TSCD 1.5",
+    "scene_id": "009774483",
+    "n": 61,
+    "correct": 24
+  }
+]

@@ -1,0 +1,1157 @@
+{
+  "records": 100000,
+  "prediction_errors": 0,
+  "parser_changes": [
+    {
+      "condition": "hallucination_v2_no_position_bias",
+      "category": "ego_relative_spatial",
+      "index": 1256,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The nearest car is in the back-right position relative to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias",
+      "category": "distance_depth",
+      "index": 604,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The closest object to the ego vehicle is the car directly in front, which is positioned at a moderate distance.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias",
+      "category": "distance_depth",
+      "index": 1022,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The closest object to the ego vehicle is the construction vehicle, which is positioned directly in front of it.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1256,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The nearest car is in the back-right position.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 42,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest car is in the front-right view, which is the closest car to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 215,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest barrier is in the front-left view.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 373,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest bus is in the front-right view, indicating it is approaching the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 795,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest car is in the front-right view, which is the closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 869,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest bicycle is on the right side of the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1226,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest truck is in the back-right view, which is crucial for navigation and safety.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1256,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest car is in the front-right view, which is crucial for the driver to monitor for safe navigation.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1363,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest car is in the left lane, which is the ego vehicle's right side.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1685,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest barrier is on the left side of the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1698,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest truck is in the back-left view, which is crucial for navigation.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1774,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the nearest car is in the front-right view, which is crucial for the driver to monitor for safe navigation.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 8,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 15,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 31,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 45,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 101,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the truck is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 108,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the truck is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 129,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 178,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 190,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a pedestrian.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 191,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 198,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 207,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 215,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 237,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 281,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 307,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 308,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 342,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle, which is positioned on the right sidewalk.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 362,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 385,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 397,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is the closest object.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 402,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the traffic cone is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 429,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the truck is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 439,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 457,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the trailer is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 494,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 509,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 514,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 547,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 557,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the trailer is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 569,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 604,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 655,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 657,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the truck is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 685,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bus is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 687,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 709,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the truck is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 744,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 759,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle, which is positioned on the right side of the road.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 782,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 850,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the traffic cone is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 854,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 908,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 962,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the traffic cone is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1007,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1017,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1022,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1032,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is the closest object.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1064,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1066,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the construction vehicle is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1074,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the trailer is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1118,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1155,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle, which is positioned on the right sidewalk.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1190,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle, which is positioned on the right side of the road.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1226,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1234,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1286,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1315,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1334,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1404,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the traffic cone is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1429,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle, which is positioned on the sidewalk.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1447,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1466,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1519,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1530,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1537,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1550,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1555,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1609,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1724,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bicycle is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1742,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the bus is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1826,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "B"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1902,
+      "before": "C",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1932,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1951,
+      "before": "D",
+      "after": "<invalid>",
+      "raw": "The answer is the car directly in front of the ego vehicle is closest.",
+      "gold": "D"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1965,
+      "before": "B",
+      "after": "<invalid>",
+      "raw": "The answer is the car is closest to the ego vehicle.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_no_position_bias_metatoken",
+      "category": "distance_depth",
+      "index": 1990,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The answer is the closest object is a bicycle, which is positioned on the sidewalk.",
+      "gold": "C"
+    },
+    {
+      "condition": "hallucination_v2_temporal_shuffle_cd_alpha05_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1256,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The nearest car is in the back-right position.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_temporal_shuffle_cd_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1256,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The nearest car is in the back-right position.",
+      "gold": "A"
+    },
+    {
+      "condition": "hallucination_v2_temporal_shuffle_cd_alpha15_metatoken",
+      "category": "ego_relative_spatial",
+      "index": 1256,
+      "before": "A",
+      "after": "<invalid>",
+      "raw": "The nearest car is in the back-right position.",
+      "gold": "A"
+    }
+  ],
+  "files": {
+    "hallucination_v2/distance_depth.json": "3116ec4dc47f32e126dbbd2e412bb65570ca2342f6f25775543f4f76250ce5b1",
+    "hallucination_v2/ego_relative_spatial.json": "468dc1f9621ce48733dcc12d61272159fe670f1f98bf994172caa6670f581d6d",
+    "hallucination_v2/motion_action.json": "7cba052defc3547857b391d51a692d816f497f00e67a1a0b5fdfbb33d23aaae1",
+    "hallucination_v2/object_existence.json": "b7f73f3d1a010a5a5bfbf56beee499d09fbd0b102ceaeb059fbb4e8d46afb239",
+    "hallucination_v2/temporal_grounding.json": "42801e94d237f798c636fc327cb21aa267bde2922c7923fe2fd5064026a2dfa7",
+    "hallucination_v2_metatoken/distance_depth.json": "a68b3d08f422e9094801b13d4f19a7bbd3c27eed4fcd75aa09aefda99e79f84b",
+    "hallucination_v2_metatoken/ego_relative_spatial.json": "c34d9ec6536d38ad2af53a3ee8af576c0b45a38933903a9b6bfdc4f9df076830",
+    "hallucination_v2_metatoken/motion_action.json": "b6cac54cca2d78d9a2ee3d5e0990947266809ff46fe7d0e8f67d4b3e8b3a04b7",
+    "hallucination_v2_metatoken/object_existence.json": "625d47fe933d18b394ff4f951b50fe5a87adf3325eb19660cdbd787335c5921b",
+    "hallucination_v2_metatoken/temporal_grounding.json": "376499beb1acaca6b284e6bca6e6d470c4c26b116e096adca76da3f542305ce7",
+    "hallucination_v2_no_position_bias/distance_depth.json": "15139a179995bb0d69fd23ab5e22786cd707d86efb2915a8ceac45301b2b7219",
+    "hallucination_v2_no_position_bias/ego_relative_spatial.json": "8cb20f7f2afff44cf347ed1965d1f69c354d94b55f35516d94a016718fea0015",
+    "hallucination_v2_no_position_bias/motion_action.json": "7cba052defc3547857b391d51a692d816f497f00e67a1a0b5fdfbb33d23aaae1",
+    "hallucination_v2_no_position_bias/object_existence.json": "fb3e51bc77d2759a9573d7ecbaeeb59a71a3c9d90d6bd7481765327aa2e261e5",
+    "hallucination_v2_no_position_bias/temporal_grounding.json": "d744ac83720ea089619aa9eb2fdce4fef93a68b775f34800eb61f61f173d1d48",
+    "hallucination_v2_no_position_bias_metatoken/distance_depth.json": "8f63d77799b0886f2b0ab6c87b7cb5e40f5beaed08f1c3493a2ec2f531bb87c7",
+    "hallucination_v2_no_position_bias_metatoken/ego_relative_spatial.json": "30369292227f01f69a7301adff667542d869cfb0946cbb93ce7bf10de31f4e3e",
+    "hallucination_v2_no_position_bias_metatoken/motion_action.json": "b6cac54cca2d78d9a2ee3d5e0990947266809ff46fe7d0e8f67d4b3e8b3a04b7",
+    "hallucination_v2_no_position_bias_metatoken/object_existence.json": "7ef90ae8d5ec2771237c162b28c306c1730f29e9b2132845ecd0c16a35429ff5",
+    "hallucination_v2_no_position_bias_metatoken/temporal_grounding.json": "52ea55484df2236b7dc082a4088df0be5ea3ca0bbe5235889c0a095679b69858",
+    "hallucination_v2/object_existence_predictions.jsonl": "190cea18c5fa93fbf608c65a0479906231cdd3ce026c774807a011a71b012fc2",
+    "hallucination_v2/temporal_grounding_predictions.jsonl": "1a2784781b1929f9d7f14aec4d56cb715b3222858642459e5753cb609f6a035e",
+    "hallucination_v2/ego_relative_spatial_predictions.jsonl": "e1aee5c79df88dd9a66cc804f2dc2f5b3612ccbd129ea228fc82f77b28f48007",
+    "hallucination_v2/motion_action_predictions.jsonl": "83b7b9e8ee87098919a44d82458da9ab062198c73c20ad8b9bfe480db6cd1ba3",
+    "hallucination_v2/distance_depth_predictions.jsonl": "1f9605d8aadeefe7df67af05b04cb277165f8463d13601b3e48a4ef779569695",
+    "hallucination_v2_no_position_bias/object_existence_predictions.jsonl": "7a759d50534fd7ff1a72c5de83f2bdee77ac2c2f99bb429dd6c0940d0e1a226f",
+    "hallucination_v2_no_position_bias/temporal_grounding_predictions.jsonl": "ecdd7d89a67171cfd485182e7da259e7601e50953729c0ad486306188c510df6",
+    "hallucination_v2_no_position_bias/ego_relative_spatial_predictions.jsonl": "2fdaf6081aeab14e2016cc6d5f21aa61f603dcf3e211de4715bdf78d0b43e19b",
+    "hallucination_v2_no_position_bias/motion_action_predictions.jsonl": "3679814f63529688b0bc72e3d47509b8d33669fa3bf37632e17ccfa7fd1877fb",
+    "hallucination_v2_no_position_bias/distance_depth_predictions.jsonl": "f8639e78abba9ee13ab59178f20514a99c950919cfdb6d3766bc084ebcadf783",
+    "hallucination_v2_temporal_shuffle_cd_alpha05/object_existence_predictions.jsonl": "dafc05dd9abcb3fe59fda9e8772a20580e6843f7d522f256838250ddffeee756",
+    "hallucination_v2_temporal_shuffle_cd_alpha05/temporal_grounding_predictions.jsonl": "af51533ca04e6d59714aad99a4629a83129513deaf69d0a98c2cde6574c4a065",
+    "hallucination_v2_temporal_shuffle_cd_alpha05/ego_relative_spatial_predictions.jsonl": "335d3b12ec967f680a7675ae28bd9437587ad227b571dba406b7e5af9746c096",
+    "hallucination_v2_temporal_shuffle_cd_alpha05/motion_action_predictions.jsonl": "85530c67f151fd239f72e23e9a6b0da70d337c0a000a26ced40e33b68b95f5f4",
+    "hallucination_v2_temporal_shuffle_cd_alpha05/distance_depth_predictions.jsonl": "90e6e8866c0eca99881a0c38381c113cfd3ea3a6b817130a7b9282f6b3d6a6ee",
+    "hallucination_v2_temporal_shuffle_cd/object_existence_predictions.jsonl": "87a7e8124f88f9130cb69338a79a3235d634d7622e22238c4b9b68195c860107",
+    "hallucination_v2_temporal_shuffle_cd/temporal_grounding_predictions.jsonl": "bebea61dd208cf2bd6dc082b3987f6de45357b20ebe7a277f581257b73a98e58",
+    "hallucination_v2_temporal_shuffle_cd/ego_relative_spatial_predictions.jsonl": "673fb10e5ad12430fffb2c09a4d1e3bdcf71026c5950791f3475205c292e3ac9",
+    "hallucination_v2_temporal_shuffle_cd/motion_action_predictions.jsonl": "48d638162bcef1dc331531298fa2c54c1e608211c346fb8f0a0adce9b7e2f72f",
+    "hallucination_v2_temporal_shuffle_cd/distance_depth_predictions.jsonl": "89f23cdb13435dc16513808f3d2fb40f9482099381f5a5e96bd15680df6b66ae",
+    "hallucination_v2_temporal_shuffle_cd_alpha15/object_existence_predictions.jsonl": "770921bd0b5d513735ee62b85cc94f04ac39fc34431cbcb13783a9f23218b48d",
+    "hallucination_v2_temporal_shuffle_cd_alpha15/temporal_grounding_predictions.jsonl": "bbbb9d75609a2c5ca67281b2ce081b3b82a9ea760bc77153bf2ef81c34d1e2cd",
+    "hallucination_v2_temporal_shuffle_cd_alpha15/ego_relative_spatial_predictions.jsonl": "6c27746b2731ed48ab0bd43708bf16daba0e3315449d2524767db7651668deb8",
+    "hallucination_v2_temporal_shuffle_cd_alpha15/motion_action_predictions.jsonl": "af4d3c842cab2faab5719a1631ddbfda156eb3897f0a14202d7a4fcc87058f27",
+    "hallucination_v2_temporal_shuffle_cd_alpha15/distance_depth_predictions.jsonl": "13a0a2bc4606868c4f9bd2976f62c7fc05f72e73947f5c160f4dfb5c7d04d4ec",
+    "hallucination_v2_metatoken/object_existence_predictions.jsonl": "f7b659acdca60be2f746705e6a589779a5cbb1ec00a49ccfd95dc69245487db0",
+    "hallucination_v2_metatoken/temporal_grounding_predictions.jsonl": "303a4662a0ad94d0f93340cd4565890b95b2ba08321dd49972b6fd37212f1085",
+    "hallucination_v2_metatoken/ego_relative_spatial_predictions.jsonl": "220043bd22a87c5bca68c67c977638af8c91aae21f048618fefeb9bc455f0d62",
+    "hallucination_v2_metatoken/motion_action_predictions.jsonl": "9a9a95116293b3cf5563a02d9e6729cc7e2430521bf8a2cd518e0a8433d46fcc",
+    "hallucination_v2_metatoken/distance_depth_predictions.jsonl": "17dddebefeab3b1e513c373ecf5f5f27815e7cf5a30056551916c5477ac7166f",
+    "hallucination_v2_no_position_bias_metatoken/object_existence_predictions.jsonl": "bd673f273ddb141dc84d84f47f16a32e2091668807aeb650b59838cb830dcfb7",
+    "hallucination_v2_no_position_bias_metatoken/temporal_grounding_predictions.jsonl": "527886500081d1c7486c8dee810442297b9de230986abfdb3a2ebbad9dfe182f",
+    "hallucination_v2_no_position_bias_metatoken/ego_relative_spatial_predictions.jsonl": "83abaf4ee295ee572652f9a21dff48bcd536ee5d2ff53929485ee9dff64c75b6",
+    "hallucination_v2_no_position_bias_metatoken/motion_action_predictions.jsonl": "a16196ae1d0977243d247b811589ec6d91b96c17ba7f4001b977653faeee9a2f",
+    "hallucination_v2_no_position_bias_metatoken/distance_depth_predictions.jsonl": "0cbd6bd1d6b26f738e6f50b2a220272b589a3feb0cd870977d28009281a3def6",
+    "hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/object_existence_predictions.jsonl": "43acc54f2cd6b772677e416a19edae6b7d82703effdb8e66df664ec25cd6713c",
+    "hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/temporal_grounding_predictions.jsonl": "adabbaec89ad277414cb0a7d310fb1b2c8d0022b0defe397aec31b8c6f54d5f5",
+    "hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/ego_relative_spatial_predictions.jsonl": "cacef227a53ecd8066f67a91af327c68c2da840647d661df159dbeefcfe5d39c",
+    "hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/motion_action_predictions.jsonl": "4b665163c8539bf82a89675a0282efeddb7c05d96166b66ff5cb0d2878366a4d",
+    "hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/distance_depth_predictions.jsonl": "4bd1bec908c192a00896506f5728dee5949fa53f96682f6f989644c139476631",
+    "hallucination_v2_temporal_shuffle_cd_metatoken/object_existence_predictions.jsonl": "ef927d57aabd84647f912f9d0a3d7d79726391c29c34a26adc7b18d8f45acab9",
+    "hallucination_v2_temporal_shuffle_cd_metatoken/temporal_grounding_predictions.jsonl": "b1aae32bea4205fb5f1b363bf16f67a575a83fc28736506ce4a1e73cc61fd493",
+    "hallucination_v2_temporal_shuffle_cd_metatoken/ego_relative_spatial_predictions.jsonl": "570884a2c99ac1e2220d8334ad79e3ff2faf6cd1b83e8c8c358bd492507d860d",
+    "hallucination_v2_temporal_shuffle_cd_metatoken/motion_action_predictions.jsonl": "b77a5a63dbc627457d87aaf73dadde2eca3fe82047bdaa7c15c88c020ca48f2f",
+    "hallucination_v2_temporal_shuffle_cd_metatoken/distance_depth_predictions.jsonl": "68e452e0121cbdb8265f458949fd316c6eedddfa23fdc464f032069cd49aaeed",
+    "hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/object_existence_predictions.jsonl": "a9632d90614dabac3d1853d15f7a65bc86e71e364a2eefa102a3d1311d0bbbf4",
+    "hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/temporal_grounding_predictions.jsonl": "a4bb1c75d0e5ab15032b3f95166e23d081cc70d80dd4e9ba03d54e8fb0c2b20f",
+    "hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/ego_relative_spatial_predictions.jsonl": "ca3cb6249670ddd82077c6789c33c355951fb9a1dbf2ec7023ba847fe29335df",
+    "hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/motion_action_predictions.jsonl": "18eb051f2044b8db2664c7a1618a5c947be1c17b43d77498e648cfa819f33174",
+    "hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/distance_depth_predictions.jsonl": "a0c8338f8dbaf9861820c462fe7ba7392af600ca6e8e0a6ac6f794fba6306cb7"
+  },
+  "variant_checks": {
+    "hallucination_v2": 10000,
+    "hallucination_v2_metatoken": 10000,
+    "hallucination_v2_no_position_bias": 10000,
+    "hallucination_v2_no_position_bias_metatoken": 10000
+  },
+  "dataset": {
+    "object_existence": {
+      "n": 2000,
+      "scenes": 150,
+      "question_types": {
+        "binary": 1000,
+        "mcq": 1000
+      },
+      "split": {
+        "test": 2000
+      }
+    },
+    "temporal_grounding": {
+      "n": 2000,
+      "scenes": 146,
+      "question_types": {
+        "mcq": 2000
+      },
+      "split": {
+        "test": 2000
+      }
+    },
+    "ego_relative_spatial": {
+      "n": 2000,
+      "scenes": 150,
+      "question_types": {
+        "mcq": 1000,
+        "binary": 1000
+      },
+      "split": {
+        "test": 2000
+      }
+    },
+    "motion_action": {
+      "n": 2000,
+      "scenes": 148,
+      "question_types": {
+        "binary": 2000
+      },
+      "split": {
+        "test": 2000
+      }
+    },
+    "distance_depth": {
+      "n": 2000,
+      "scenes": 127,
+      "question_types": {
+        "mcq": 2000
+      },
+      "split": {
+        "test": 2000
+      }
+    }
+  },
+  "unique_queries": 10000,
+  "unique_scenes": 150,
+  "validated_motion_labels": 2000,
+  "validated_temporal_options": 2000,
+  "temporal_gt_duration_outside_distractor_range": 242,
+  "feature_length_scenes": {
+    "41": 37,
+    "40": 95,
+    "39": 18
+  },
+  "feature_lengths": {
+    "009129122": 41,
+    "003105904": 41,
+    "006315583": 40,
+    "005420204": 40,
+    "001320604": 40,
+    "003117374": 40,
+    "003619392": 41,
+    "008006953": 39,
+    "004801460": 40,
+    "004035421": 39,
+    "002242917": 41,
+    "004578825": 41,
+    "004786749": 41,
+    "002367184": 40,
+    "002971874": 40,
+    "007671565": 40,
+    "002774969": 40,
+    "006508324": 40,
+    "002961505": 40,
+    "006512375": 40,
+    "009771379": 41,
+    "004771986": 40,
+    "008850284": 39,
+    "002867953": 40,
+    "004071037": 40,
+    "004279963": 40,
+    "008412787": 40,
+    "005254964": 40,
+    "008042486": 40,
+    "007076375": 41,
+    "004977537": 40,
+    "003100313": 41,
+    "007585865": 40,
+    "009481802": 40,
+    "008760843": 40,
+    "005745653": 40,
+    "001416770": 40,
+    "006092198": 40,
+    "003471078": 40,
+    "003705871": 41,
+    "006599465": 41,
+    "005036851": 40,
+    "008912015": 40,
+    "002792834": 40,
+    "007300765": 39,
+    "001282585": 40,
+    "005669396": 39,
+    "002988708": 40,
+    "003730368": 41,
+    "008111392": 40,
+    "009555605": 41,
+    "003357723": 41,
+    "003964199": 39,
+    "002440304": 41,
+    "003662992": 40,
+    "003522924": 40,
+    "006822972": 40,
+    "008656441": 40,
+    "001863052": 40,
+    "007024509": 40,
+    "005164155": 40,
+    "002079350": 40,
+    "007991912": 40,
+    "003544634": 40,
+    "005107952": 40,
+    "004383842": 40,
+    "002335619": 39,
+    "009539313": 40,
+    "007471801": 40,
+    "006733269": 40,
+    "003023519": 40,
+    "007232498": 41,
+    "001593463": 41,
+    "008603606": 40,
+    "003171807": 39,
+    "002721208": 40,
+    "008015461": 40,
+    "008839143": 40,
+    "006081651": 40,
+    "006528942": 40,
+    "009530324": 40,
+    "007993799": 40,
+    "002051969": 40,
+    "007278080": 41,
+    "006996816": 41,
+    "006431503": 40,
+    "008872583": 41,
+    "009304015": 40,
+    "008458832": 39,
+    "004673817": 41,
+    "002928475": 41,
+    "009320676": 40,
+    "008147953": 40,
+    "006851471": 41,
+    "002480472": 40,
+    "009055777": 40,
+    "001000833": 41,
+    "006189085": 40,
+    "008398120": 40,
+    "006413433": 39,
+    "005280034": 41,
+    "003897137": 40,
+    "005116728": 40,
+    "002121102": 41,
+    "007896150": 39,
+    "003994784": 40,
+    "001722118": 41,
+    "002642553": 40,
+    "006767147": 40,
+    "009774483": 40,
+    "005828436": 41,
+    "002633958": 41,
+    "005315054": 40,
+    "002003262": 41,
+    "003284067": 40,
+    "001082916": 41,
+    "006936460": 40,
+    "005536384": 39,
+    "004739990": 39,
+    "001018437": 41,
+    "007780102": 40,
+    "001782394": 39,
+    "009469504": 40,
+    "001544104": 41,
+    "003411715": 40,
+    "009039207": 40,
+    "008231831": 40,
+    "004382413": 40,
+    "007756420": 40,
+    "003034960": 40,
+    "002433679": 41,
+    "007212145": 39,
+    "006457017": 41,
+    "007784450": 41,
+    "006443880": 40,
+    "002817526": 40,
+    "002222437": 40,
+    "002039574": 39,
+    "002976873": 40,
+    "006249166": 40,
+    "003588128": 40,
+    "009501115": 40,
+    "002345590": 40,
+    "008988794": 41,
+    "007514324": 39,
+    "006018298": 40,
+    "009399980": 40,
+    "002882594": 39,
+    "005463359": 40,
+    "008166157": 40
+  },
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 20260904
+}

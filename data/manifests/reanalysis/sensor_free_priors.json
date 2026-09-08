@@ -1,0 +1,209 @@
+[
+  {
+    "n": 1000,
+    "accuracy": 0.721,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.7210000000000001,
+    "recall": {
+      "Yes.": 0.548,
+      "No.": 0.894
+    },
+    "gold_counts": {
+      "Yes.": 500,
+      "No.": 500
+    },
+    "prediction_counts": {
+      "No.": 673,
+      "Yes.": 327
+    },
+    "tpr": 0.548,
+    "fpr": 0.106,
+    "fnr": 0.452,
+    "category": "object_existence",
+    "kind": "binary",
+    "ci_low": 0.6857713115952625,
+    "ci_high": 0.755533199195171
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.661,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.6599986485819367,
+    "recall": {
+      "A": 0.652,
+      "B": 0.6968503937007874,
+      "C": 0.6206896551724138,
+      "D": 0.6704545454545454
+    },
+    "gold_counts": {
+      "A": 250,
+      "D": 264,
+      "B": 254,
+      "C": 232
+    },
+    "prediction_counts": {
+      "A": 238,
+      "B": 279,
+      "D": 260,
+      "C": 223
+    },
+    "always_a": 0.25,
+    "a_rate": 0.238,
+    "rescue": 498,
+    "damage": 87,
+    "excess": 0.411,
+    "category": "object_existence",
+    "kind": "mcq",
+    "ci_low": 0.619631594784969,
+    "ci_high": 0.7012326785737347
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.693,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.6931000155163187,
+    "recall": {
+      "A": 0.7391304347826086,
+      "B": 0.7212475633528265,
+      "C": 0.7168316831683168,
+      "D": 0.5951903807615231
+    },
+    "gold_counts": {
+      "B": 513,
+      "C": 505,
+      "D": 499,
+      "A": 483
+    },
+    "prediction_counts": {
+      "B": 546,
+      "C": 507,
+      "A": 552,
+      "D": 395
+    },
+    "always_a": 0.2415,
+    "a_rate": 0.276,
+    "rescue": 1029,
+    "damage": 126,
+    "excess": 0.4515,
+    "category": "temporal_grounding",
+    "kind": "mcq",
+    "ci_low": 0.6459526873093097,
+    "ci_high": 0.7379423406341719
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.549,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.5489999999999999,
+    "recall": {
+      "Yes.": 0.524,
+      "No.": 0.574
+    },
+    "gold_counts": {
+      "No.": 500,
+      "Yes.": 500
+    },
+    "prediction_counts": {
+      "No.": 525,
+      "Yes.": 475
+    },
+    "tpr": 0.524,
+    "fpr": 0.426,
+    "fnr": 0.476,
+    "category": "ego_relative_spatial",
+    "kind": "binary",
+    "ci_low": 0.5164942959322305,
+    "ci_high": 0.5824175824175825
+  },
+  {
+    "n": 1000,
+    "accuracy": 0.291,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.29267314685676205,
+    "recall": {
+      "A": 0.27450980392156865,
+      "B": 0.2886178861788618,
+      "C": 0.34913793103448276,
+      "D": 0.25842696629213485
+    },
+    "gold_counts": {
+      "A": 255,
+      "D": 267,
+      "B": 246,
+      "C": 232
+    },
+    "prediction_counts": {
+      "A": 233,
+      "B": 247,
+      "C": 285,
+      "D": 235
+    },
+    "always_a": 0.255,
+    "a_rate": 0.233,
+    "rescue": 221,
+    "damage": 185,
+    "excess": 0.036,
+    "category": "ego_relative_spatial",
+    "kind": "mcq",
+    "ci_low": 0.2599408435129348,
+    "ci_high": 0.3219620305068066
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.5905,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.5905,
+    "recall": {
+      "Yes.": 0.557,
+      "No.": 0.624
+    },
+    "gold_counts": {
+      "Yes.": 1000,
+      "No.": 1000
+    },
+    "prediction_counts": {
+      "Yes.": 933,
+      "No.": 1067
+    },
+    "tpr": 0.557,
+    "fpr": 0.376,
+    "fnr": 0.443,
+    "category": "motion_action",
+    "kind": "binary",
+    "ci_low": 0.5570039284809106,
+    "ci_high": 0.6234104285661032
+  },
+  {
+    "n": 2000,
+    "accuracy": 0.527,
+    "valid_rate": 1.0,
+    "balanced_accuracy": 0.5275247323586777,
+    "recall": {
+      "A": 0.5411522633744856,
+      "B": 0.5152057245080501,
+      "C": 0.5144628099173554,
+      "D": 0.5392781316348195
+    },
+    "gold_counts": {
+      "A": 486,
+      "D": 471,
+      "B": 559,
+      "C": 484
+    },
+    "prediction_counts": {
+      "B": 514,
+      "D": 476,
+      "A": 519,
+      "C": 491
+    },
+    "always_a": 0.243,
+    "a_rate": 0.2595,
+    "rescue": 791,
+    "damage": 223,
+    "excess": 0.284,
+    "category": "distance_depth",
+    "kind": "mcq",
+    "ci_low": 0.4702139458172838,
+    "ci_high": 0.5823991741003208
+  }
+]
