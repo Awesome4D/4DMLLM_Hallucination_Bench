@@ -1,55 +1,81 @@
 # LiDAR-Hallu / MLLM_Hallucination
 
-Prior-aware evaluation of 4D LiDAR language model responses, accompanying **LiDAR-Hallu: Separating Answer Priors from 4D LiDAR Grounding** (ICRA 2027 submission draft, version 2).
+Prior-aware evaluation of 4D LiDAR language model responses, accompanying the [ICRA paper repository](https://github.com/RunyiYang/-ICRA-2027-MLLM_Hallucinations).
 
-## Layout
+## Full benchmark and predictions are in this repository
 
-- `lidar_hallu/`: lightweight, CPU-only response analysis and sensor-free controls.
-- `tests/`: output-contract, exact-accounting, scene-bootstrap and leakage tests.
-- `results/`: recomputed machine-readable evidence for the paper.
-- `legacy/`: unmodified thesis-era generators, training wrappers, inference and TSCD implementation in the complete handoff.
-- `docs/`: scientific scope, migration notes and source hashes.
+**[Benchmark JSON](data/b4dl_dataset/)** · **[Per-example predictions](data/b4dl_eval/)** · **[Original ZIPs](data/archives/)** · **[Data inventory](data/README.md)** · **[nuScenes LiDAR 下载说明](docs/NUSCENES_DOWNLOAD_ZH.md)**
 
-The local full handoff preserves all original code. The published analysis core can run from the original benchmark and prediction archives without downloading a model or using a GPU.
+A normal clone now contains all scientific records from the two supplied thesis archives. No Google Drive download, GPU, raw nuScenes data, or model checkpoint is needed to analyze these saved responses.
 
-## Install and test
+- **10,000 unique questions across 150 scenes.** Four prompt/metatoken exports, each containing five 2,000-question category files: 20 JSON files / 40,000 exported records, not 40,000 independent questions.
+- **100,000 saved predictions.** Two B4DL-based configurations and five conditions per configuration. All 50 JSONL and corresponding 50 CSV files are included. CSV and JSONL encode the same predictions, not two sets of experiments.
+- **Original bytes preserved.** The two ZIPs are committed unchanged. Extracted scientific files are byte-identical to their archive members; only macOS filesystem metadata is excluded from the extracted trees.
+
+## Install, verify, and reproduce without external data
 
 ```bash
+git clone https://github.com/RunyiYang/MLLM_Hallucination.git
+cd MLLM_Hallucination
+python3 -m venv .venv
+source .venv/bin/activate
 python -m pip install -e '.[test]'
+
+# No network needed for the data-verification step.
+python scripts/materialize_paper_data.py
 python -m pytest -q
+
+# Write fresh statistics separately, preserving the committed paper evidence.
+OUT=results_reproduced/local
+python -m lidar_hallu.analyze --dataset data/b4dl_dataset --predictions data/b4dl_eval --output "$OUT"
+python -m lidar_hallu.priors --dataset data/b4dl_dataset --output "$OUT"
+python -m lidar_hallu.conflicts --predictions data/b4dl_eval --output "$OUT"
 ```
 
-Python 3.10+ and NumPy are sufficient for the analysis. The legacy GPU environment is separate and is not installed by this package.
+Python 3.10+ and NumPy are sufficient for the analysis. Do not use Python `-O` for the legacy analysis validator, because that disables its assertions. The materialization checker uses explicit exceptions. The default scene bootstrap uses 10,000 draws and seed 20260904. Installing Python dependencies still requires a suitable package cache or network; the dataset itself is self-contained after cloning.
 
-## Reproduce the submitted numbers
+`data/manifests/assets.json` lists archive and file hashes, sizes and record counts. `verification.json` records exact question/prompt/options/reference matching. `benchmark_scenes.json` maps all 150 scene IDs to nuScenes tokens and retained frame/sample references. The import workflow also preserves independent reanalysis under `data/manifests/reanalysis/`.
 
-Unzip the original benchmark and result archives into `data/b4dl_dataset` and `data/b4dl_eval`, then run:
+## What is and is not included
+
+| Asset | Status |
+|---|---|
+| Full benchmark and ten saved evaluation runs | Included under `data/` |
+| Strict rescoring, prior controls, paired statistics | Included under `lidar_hallu/` and `results/` |
+| Original thesis-era scripts | Included under `legacy/` |
+| Raw nuScenes LiDAR and full annotation metadata | External; see download guide |
+| Synchronized RGB for a real-data teaser | Optional external sensor files |
+| Learned LiDAR feature cache (`stage2_features/*.npy`) | Not in the supplied archives |
+| Base model, projector, and trained checkpoints | External; not restored in this update |
+| Complete original B4DL/VTimeLLM runtime | Not fully present; see migration notes |
+| Token logits, hidden states, or unrelated experiments | Not present in the supplied archives |
+
+The historical inference entry point reads learned `.npy` features, not raw `.bin` point clouds. New inference therefore needs the feature cache or a matching encoder/preprocessing pipeline in addition to the model/runtime. Restoring checkpoints is separate from analyzing the current paper results.
+
+## Raw nuScenes setup
+
+Follow [docs/NUSCENES_DOWNLOAD_ZH.md](docs/NUSCENES_DOWNLOAD_ZH.md). Use **v1.0-trainval**, including metadata and the required LiDAR sensor files. The exported string `test` denotes this project's evaluation role, not the official nuScenes test split.
 
 ```bash
-python -m lidar_hallu.analyze --dataset data/b4dl_dataset --predictions data/b4dl_eval --output results
-python -m lidar_hallu.priors --dataset data/b4dl_dataset --output results
-python -m lidar_hallu.conflicts --predictions data/b4dl_eval --output results
+export NUSCENES_ROOT=/path/to/nuscenes
+# Metadata only: generate exact sensor filenames for the benchmark scenes.
+python scripts/check_nuscenes_assets.py --dataroot "$NUSCENES_ROOT" --manifest-only
+# Once raw data are present: verify alignment and nonempty file existence.
+python scripts/check_nuscenes_assets.py --dataroot "$NUSCENES_ROOT"
 ```
 
-Do not run the validation command with Python `-O`, which disables assertions. The default bootstrap uses 10,000 whole-scene draws with seed 20260904. The analysis verifies all four dataset variants and all 100,000 saved predictions against their exact questions, prompts, options, references and sequence bounds.
+The raw-data checker has synthetic unit tests; this update did not download or run on the full raw nuScenes trainval dataset. A file-presence PASS is not a feature-reproduction or model-inference result.
 
-The archives linked in the original project README are:
+## Scientific scope and scoring
 
-- Benchmark: Google Drive file `1FCSGJ2uNjNngHYlKhtdqxxtUzHqlmE-j`.
-- Predictions: Google Drive file `1i5yQCf_J8E3zs7GGCcJkc3gwVrvjD5g8`.
+Saved `correct` and `parsed_prediction` values remain the original legacy scores. Use `lidar_hallu` for the declared strict parser. It rejects first-letter accidents such as mapping `car` to C, retains invalid outputs in the denominator, and reports useful departures from a fixed answer together with repaired and regressed predictions.
 
-The private complete handoff also includes these exact ZIPs. Access and redistribution remain subject to their owners' and upstream dataset terms.
+Scene-held-out categorical controls deliberately use labels from other evaluation scenes. They diagnose within-suite sensor-free predictability, not matched-supervision competition or a question-only run of the original checkpoint. TSCD is not a shuffled-only sensor ablation. No new neural-model predictions were generated in this data import.
 
-## What is new
+The archived QA conversations contain reference answers for evaluation/training-format compatibility. Do not pass the reference assistant turn into an inference prompt. Keep future model runs in a new directory rather than overwriting archived outputs. See [docs/MIGRATION.md](docs/MIGRATION.md).
 
-The explicit parser rejects first-letter accidents such as mapping `car` to C, counts invalid outputs as incorrect, and preserves the leading answer-label contract. The position-prior audit relates constant-A accuracy to useful departures from A. The categorical control excludes the complete target scene from fitting and uses question/candidate strings only. Paired analysis distinguishes repaired errors, damaged correct predictions and wrong-to-wrong flips.
+## Layout and rights
 
-The scene-held-out control deliberately uses labels from other evaluation scenes. It diagnoses within-suite predictability; it is not a matched-supervision competitor or a question-only pass of the original checkpoint. The paper's TSCD conditions are not standalone corrupted-input ablations. There is no new neural-model inference in this reanalysis.
+`lidar_hallu/` contains CPU analysis; `tests/` contains correctness checks; `scripts/` contains immutable data import and nuScenes asset checks; `results/` contains the existing paper summaries; `data/` contains the source corpus and evidence; `legacy/` preserves thesis-era code; `docs/` contains provenance and setup guidance.
 
-## Legacy inference
-
-The complete handoff preserves the original scripts byte-for-byte. They assume the author's B4DL/VTimeLLM tree, feature cache, stage-one projector, base Vicuna model and trained checkpoints. Those assets and an imported `evaluate_simple_tasks.py` are not all present in the uploaded code archive. Legacy GPU execution has therefore not been validated here. See `docs/MIGRATION.md` rather than silently substituting different models or defaults.
-
-## Rights
-
-No license is newly granted over inherited code, nuScenes data, B4DL questions or checkpoints. See `NOTICE.md`. Do not place the author-identifying legacy README or thesis archive into an anonymous review supplement.
+No license is newly granted over inherited code, nuScenes data, B4DL questions or checkpoints. See [NOTICE.md](NOTICE.md). The repository visibility was not changed. Do not upload author-identifying legacy material as an anonymous review supplement.
