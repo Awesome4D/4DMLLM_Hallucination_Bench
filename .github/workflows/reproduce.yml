@@ -6,33 +6,21 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: reproduce-archived-audit
+  cancel-in-progress: false
 jobs:
   reproduce:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: python -m pip install -e '.[test]' gdown
-      - name: Retrieve and verify source archives
-        run: |
-          mkdir -p data
-          gdown 'https://drive.google.com/uc?id=1FCSGJ2uNjNngHYlKhtdqxxtUzHqlmE-j' -O data/b4dl_dataset.zip
-          gdown 'https://drive.google.com/uc?id=1i5yQCf_J8E3zs7GGCcJkc3gwVrvjD5g8' -O data/b4dl_eval.zip
-          python - <<'PY'
-          import hashlib,json,zipfile
-          from pathlib import Path
-          m=json.loads(Path('docs/SOURCE_MANIFEST.json').read_text())
-          for name in ['b4dl_dataset.zip','b4dl_eval.zip']:
-              path=Path('data')/name
-              assert hashlib.sha256(path.read_bytes()).hexdigest()==m[name]['sha256'], name
-              with zipfile.ZipFile(path) as z:
-                  for f in z.infolist():
-                      p=Path(f.filename)
-                      assert not p.is_absolute() and '..' not in p.parts
-                  z.extractall('data')
-          PY
+      - run: python -m pip install -e '.[test]'
+      - name: Verify committed source data without external downloads
+        run: python scripts/materialize_paper_data.py
       - name: Test and reproduce all analysis
         env:
           OPENBLAS_NUM_THREADS: '1'
@@ -41,13 +29,14 @@ jobs:
           python -m lidar_hallu.analyze --dataset data/b4dl_dataset --predictions data/b4dl_eval --output results
           python -m lidar_hallu.priors --dataset data/b4dl_dataset --output results
           python -m lidar_hallu.conflicts --predictions data/b4dl_eval --output results
-      - name: Save recomputed summaries
+      - name: Save recomputed summaries, preserving original prediction files
         run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add results
           if ! git diff --cached --quiet; then
-            git commit -m 'Reproduce complete 100,000-response audit from hash-verified archives [skip ci]'
+            git commit -m 'Reproduce 100k-response audit directly from committed source data [skip ci]'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
