@@ -1,0 +1,1218 @@
+{
+  "schema_version": 1,
+  "source": "User-provided original archives",
+  "archives": {
+    "b4dl_dataset.zip": {
+      "bytes": 4771522,
+      "sha256": "face9fed1cac30689a3891b38f33b5299e7dbf12faaf4e0f25044360e241a207",
+      "google_drive_id": "1FCSGJ2uNjNngHYlKhtdqxxtUzHqlmE-j"
+    },
+    "b4dl_eval.zip": {
+      "bytes": 15886960,
+      "sha256": "04d3ab515a802d1440ce56d71b4654f271ddecef800bdb3f42caf4976c9097ed",
+      "google_drive_id": "1i5yQCf_J8E3zs7GGCcJkc3gwVrvjD5g8"
+    }
+  },
+  "files": [
+    {
+      "path": "data/b4dl_dataset/hallucination_v2/distance_depth.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2/distance_depth.json",
+      "bytes": 2773680,
+      "sha256": "3116ec4dc47f32e126dbbd2e412bb65570ca2342f6f25775543f4f76250ce5b1",
+      "git_blob_sha1": "c3323ea9ae2e2efde29b3aedea7d044cf93b239e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2/ego_relative_spatial.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2/ego_relative_spatial.json",
+      "bytes": 2477694,
+      "sha256": "468dc1f9621ce48733dcc12d61272159fe670f1f98bf994172caa6670f581d6d",
+      "git_blob_sha1": "59d2b45c62d5cef06a9ee034bf51692a02a9effd",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2/motion_action.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2/motion_action.json",
+      "bytes": 2229104,
+      "sha256": "7cba052defc3547857b391d51a692d816f497f00e67a1a0b5fdfbb33d23aaae1",
+      "git_blob_sha1": "ecc5c9b4d963a350eff476b677c1037aa45d9034",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2/object_existence.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2/object_existence.json",
+      "bytes": 2182443,
+      "sha256": "b7f73f3d1a010a5a5bfbf56beee499d09fbd0b102ceaeb059fbb4e8d46afb239",
+      "git_blob_sha1": "d6bc44d34888774f560ab1c880b71349fcd8fefe",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2/temporal_grounding.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2/temporal_grounding.json",
+      "bytes": 3629192,
+      "sha256": "42801e94d237f798c636fc327cb21aa267bde2922c7923fe2fd5064026a2dfa7",
+      "git_blob_sha1": "7f0cb409ff59349f408d31e041842cd17000bf93",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_metatoken/distance_depth.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_metatoken/distance_depth.json",
+      "bytes": 5224689,
+      "sha256": "a68b3d08f422e9094801b13d4f19a7bbd3c27eed4fcd75aa09aefda99e79f84b",
+      "git_blob_sha1": "0c56d2713cb6021e2f2dc79a65dd6e224ceb5c44",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_metatoken/ego_relative_spatial.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_metatoken/ego_relative_spatial.json",
+      "bytes": 4935146,
+      "sha256": "c34d9ec6536d38ad2af53a3ee8af576c0b45a38933903a9b6bfdc4f9df076830",
+      "git_blob_sha1": "9336855439b1dcb267328b2e3b101cb9a3083376",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_metatoken/motion_action.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_metatoken/motion_action.json",
+      "bytes": 4682803,
+      "sha256": "b6cac54cca2d78d9a2ee3d5e0990947266809ff46fe7d0e8f67d4b3e8b3a04b7",
+      "git_blob_sha1": "824b3d15ba6fb2b934a1c3b4b83fe0efafe4dbc2",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_metatoken/object_existence.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_metatoken/object_existence.json",
+      "bytes": 4631559,
+      "sha256": "625d47fe933d18b394ff4f951b50fe5a87adf3325eb19660cdbd787335c5921b",
+      "git_blob_sha1": "e4da503ab340eca15755b5c50f97f4ce38d7199e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_metatoken/temporal_grounding.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_metatoken/temporal_grounding.json",
+      "bytes": 6016574,
+      "sha256": "376499beb1acaca6b284e6bca6e6d470c4c26b116e096adca76da3f542305ce7",
+      "git_blob_sha1": "3966401b5d0da34cffc21a7032635de66d0d27ff",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias/distance_depth.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias/distance_depth.json",
+      "bytes": 3409680,
+      "sha256": "15139a179995bb0d69fd23ab5e22786cd707d86efb2915a8ceac45301b2b7219",
+      "git_blob_sha1": "44e6a1ec84c48a058ee78996b0f8d7d1dea7c0f3",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias/ego_relative_spatial.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias/ego_relative_spatial.json",
+      "bytes": 2795694,
+      "sha256": "8cb20f7f2afff44cf347ed1965d1f69c354d94b55f35516d94a016718fea0015",
+      "git_blob_sha1": "0648b35bd1e1276508bbf68592712a655de22503",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias/motion_action.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias/motion_action.json",
+      "bytes": 2229104,
+      "sha256": "7cba052defc3547857b391d51a692d816f497f00e67a1a0b5fdfbb33d23aaae1",
+      "git_blob_sha1": "ecc5c9b4d963a350eff476b677c1037aa45d9034",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias/object_existence.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias/object_existence.json",
+      "bytes": 2500443,
+      "sha256": "fb3e51bc77d2759a9573d7ecbaeeb59a71a3c9d90d6bd7481765327aa2e261e5",
+      "git_blob_sha1": "425c99d5733795e6822a0c7423b064f29fe9258e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias/temporal_grounding.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias/temporal_grounding.json",
+      "bytes": 4265192,
+      "sha256": "d744ac83720ea089619aa9eb2fdce4fef93a68b775f34800eb61f61f173d1d48",
+      "git_blob_sha1": "b3da59f9ad8b365a3fedfdf82398c3c20d98d89d",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias_metatoken/distance_depth.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias_metatoken/distance_depth.json",
+      "bytes": 5860689,
+      "sha256": "8f63d77799b0886f2b0ab6c87b7cb5e40f5beaed08f1c3493a2ec2f531bb87c7",
+      "git_blob_sha1": "10f4d2d20f5e4c5cde9efa4ccae6737230c7e9f8",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias_metatoken/ego_relative_spatial.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias_metatoken/ego_relative_spatial.json",
+      "bytes": 5253146,
+      "sha256": "30369292227f01f69a7301adff667542d869cfb0946cbb93ce7bf10de31f4e3e",
+      "git_blob_sha1": "1c763d25c71a1624538e8881827f4585047da2cf",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias_metatoken/motion_action.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias_metatoken/motion_action.json",
+      "bytes": 4682803,
+      "sha256": "b6cac54cca2d78d9a2ee3d5e0990947266809ff46fe7d0e8f67d4b3e8b3a04b7",
+      "git_blob_sha1": "824b3d15ba6fb2b934a1c3b4b83fe0efafe4dbc2",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias_metatoken/object_existence.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias_metatoken/object_existence.json",
+      "bytes": 4949559,
+      "sha256": "7ef90ae8d5ec2771237c162b28c306c1730f29e9b2132845ecd0c16a35429ff5",
+      "git_blob_sha1": "85c4e1c36c2ff94f4f8745b43c589ca5122cabf6",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_dataset/hallucination_v2_no_position_bias_metatoken/temporal_grounding.json",
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/hallucination_v2_no_position_bias_metatoken/temporal_grounding.json",
+      "bytes": 6652574,
+      "sha256": "52ea55484df2236b7dc082a4088df0be5ea3ca0bbe5235889c0a095679b69858",
+      "git_blob_sha1": "86ffdf3e3b7286a14264a00d3c72f5914ac7d0d4",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/distance_depth_predictions.csv",
+      "bytes": 1149820,
+      "sha256": "8aeb47ba4e4478217b58a615445fe28c62ae0184687df03910dc61a20dad534d",
+      "git_blob_sha1": "72769375d6c5b8ab0df689929e29d6702e59ba8f",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/distance_depth_predictions.jsonl",
+      "bytes": 1781618,
+      "sha256": "1f9605d8aadeefe7df67af05b04cb277165f8463d13601b3e48a4ef779569695",
+      "git_blob_sha1": "41caab0b0aec98ebf9a3be8ef17bb91e45936e23",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/ego_relative_spatial_predictions.csv",
+      "bytes": 978282,
+      "sha256": "62d635e14d6df40d06dccc562008c8d25c5b48a272dd2fae0e34eaf6eb94d8b4",
+      "git_blob_sha1": "f9a0fc3d7899ec53e98eaeb5dccc1b91f6cbb6f8",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/ego_relative_spatial_predictions.jsonl",
+      "bytes": 1608080,
+      "sha256": "e1aee5c79df88dd9a66cc804f2dc2f5b3612ccbd129ea228fc82f77b28f48007",
+      "git_blob_sha1": "a0888e932feba4129167a8c04d3e969b88654d93",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/motion_action_predictions.csv",
+      "bytes": 677142,
+      "sha256": "715942fd97a4031b20824e1fed0b83d52ce74542d397bd42579644d77f08343a",
+      "git_blob_sha1": "5e9d268d4d381222d323e4850dc9c7af144854a2",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/motion_action_predictions.jsonl",
+      "bytes": 1292940,
+      "sha256": "83b7b9e8ee87098919a44d82458da9ab062198c73c20ad8b9bfe480db6cd1ba3",
+      "git_blob_sha1": "e922ec54115be23d0be565b3fe98e4ad1b4c67f1",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/object_existence_predictions.csv",
+      "bytes": 832531,
+      "sha256": "23282e8380732d4e54e4ae3cc927f93f9ac509b17fcb7cd084b18dbc822c2a36",
+      "git_blob_sha1": "76468b2aa03235de3f36db5ea9a0a231908e96f6",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/object_existence_predictions.jsonl",
+      "bytes": 1462329,
+      "sha256": "190cea18c5fa93fbf608c65a0479906231cdd3ce026c774807a011a71b012fc2",
+      "git_blob_sha1": "18f3e80cf088ffc4e60fbf340a2f5d1e6d5525d5",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/temporal_grounding_predictions.csv",
+      "bytes": 1701219,
+      "sha256": "8677ff9f271c6e2455bfe2803096f6ab4c979a1f25d40a4c2b5142fb77f2e237",
+      "git_blob_sha1": "0bc831b8e9c483b2c85461b943a4df362f826199",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/temporal_grounding_predictions.jsonl",
+      "bytes": 2341017,
+      "sha256": "1a2784781b1929f9d7f14aec4d56cb715b3222858642459e5753cb609f6a035e",
+      "git_blob_sha1": "c84253b21e461a22f15e27cdb3b26d240e2af46f",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/distance_depth_predictions.csv",
+      "bytes": 1884876,
+      "sha256": "a584d138c1daedc07774f2ff644c87d775ed62fcfbc651c124e0a45ee6a7f23b",
+      "git_blob_sha1": "74cffb37230faa16d78f4992ca9973c47d2aa36e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/distance_depth_predictions.jsonl",
+      "bytes": 2522674,
+      "sha256": "17dddebefeab3b1e513c373ecf5f5f27815e7cf5a30056551916c5477ac7166f",
+      "git_blob_sha1": "a18708398dff8c3d926d19f63e5029252094b977",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/ego_relative_spatial_predictions.csv",
+      "bytes": 1710417,
+      "sha256": "04232fe2b36504bee4b9a6a2973152f9778c1daeffe1989aaf56e40cf2835dd5",
+      "git_blob_sha1": "197f5a797902b8801b4a485bb1c22e775835586c",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2346209,
+      "sha256": "220043bd22a87c5bca68c67c977638af8c91aae21f048618fefeb9bc455f0d62",
+      "git_blob_sha1": "8933217d8215ea1dcbe1882909670397e6f0adf0",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/motion_action_predictions.csv",
+      "bytes": 1411183,
+      "sha256": "18dab271717b34c9722f2851e16b9e4ee384b6a65b2887ced8187a245c043101",
+      "git_blob_sha1": "a743708bac64050d7582343387034d7e259775d6",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/motion_action_predictions.jsonl",
+      "bytes": 2032981,
+      "sha256": "9a9a95116293b3cf5563a02d9e6729cc7e2430521bf8a2cd518e0a8433d46fcc",
+      "git_blob_sha1": "e1afa0f6b409524ec998059be55ba1f64e0bc4ff",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/object_existence_predictions.csv",
+      "bytes": 1559467,
+      "sha256": "42b2809064dde19b4fd4c0abc76baf3a5c3f1fb54380f0d05584efcec7256f88",
+      "git_blob_sha1": "93b1e9c2b348c623937f09aae4e4a145eccdcb76",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/object_existence_predictions.jsonl",
+      "bytes": 2195265,
+      "sha256": "f7b659acdca60be2f746705e6a589779a5cbb1ec00a49ccfd95dc69245487db0",
+      "git_blob_sha1": "8277b64b1a0b14b6b72c7048546fd43efe11da37",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/temporal_grounding_predictions.csv",
+      "bytes": 2426613,
+      "sha256": "31cb1e92a6ed4cc8dea3b75819d956b3eaeaedad621b29304550e62b25b9a75e",
+      "git_blob_sha1": "09db86a71dae553664c019d9f2f2f8bc03479057",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_metatoken/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/temporal_grounding_predictions.jsonl",
+      "bytes": 3072411,
+      "sha256": "303a4662a0ad94d0f93340cd4565890b95b2ba08321dd49972b6fd37212f1085",
+      "git_blob_sha1": "98e4cae94f2edabca3204202a8908bf147b6db85",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/distance_depth_predictions.csv",
+      "bytes": 1576597,
+      "sha256": "a9494113bb21fea844edc21ae72ac49e12e6e4efef56a73dcd67b66ed92e336d",
+      "git_blob_sha1": "af8cc69890700a12d517c0ff6dca50c10a7ac321",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/distance_depth_predictions.jsonl",
+      "bytes": 2208391,
+      "sha256": "f8639e78abba9ee13ab59178f20514a99c950919cfdb6d3766bc084ebcadf783",
+      "git_blob_sha1": "f51fa6bb5aa6d3c6a95a774fd3cca58e972151ba",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/ego_relative_spatial_predictions.csv",
+      "bytes": 1191255,
+      "sha256": "69dc1c849912d680b4f70673d46e637bcbfb6f2f9ac1f34a00ca65d5844e1836",
+      "git_blob_sha1": "7415d3fd1122022ee7d30a3e3ab2465d8983bfdd",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/ego_relative_spatial_predictions.jsonl",
+      "bytes": 1821047,
+      "sha256": "2fdaf6081aeab14e2016cc6d5f21aa61f603dcf3e211de4715bdf78d0b43e19b",
+      "git_blob_sha1": "df672d357d21c44b0d85cd2ce4df1caa41c3cd78",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/motion_action_predictions.csv",
+      "bytes": 677158,
+      "sha256": "b1d28ddcf23a53e97dd474f17dca230fb7b285a1645c38f0ce1b38002075d134",
+      "git_blob_sha1": "660c70172255fcdb5563e76e114493cc510432b2",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/motion_action_predictions.jsonl",
+      "bytes": 1292956,
+      "sha256": "3679814f63529688b0bc72e3d47509b8d33669fa3bf37632e17ccfa7fd1877fb",
+      "git_blob_sha1": "c0f65de249b6b7fdd7b1e483b34fcc12afc78daa",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/object_existence_predictions.csv",
+      "bytes": 1044674,
+      "sha256": "1194ae4064bf991123ab2ac4216240373bbfdb0e0023b65f483d1f42cfa47511",
+      "git_blob_sha1": "11477a045fe864dec57258b227257d9c9bf62529",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/object_existence_predictions.jsonl",
+      "bytes": 1674472,
+      "sha256": "7a759d50534fd7ff1a72c5de83f2bdee77ac2c2f99bb429dd6c0940d0e1a226f",
+      "git_blob_sha1": "6487e9b95b86bd9612bee0b9ea2cf3d2fe452a4c",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/temporal_grounding_predictions.csv",
+      "bytes": 2129473,
+      "sha256": "d64f41ccb86008c847a4126488d48d3d581389aa25c9fd22e48c390b6fedfe7f",
+      "git_blob_sha1": "a0418ac8da3bd8aaf3dc6e6aa390347c4b5beef2",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/temporal_grounding_predictions.jsonl",
+      "bytes": 2769271,
+      "sha256": "ecdd7d89a67171cfd485182e7da259e7601e50953729c0ad486306188c510df6",
+      "git_blob_sha1": "e7b42be53d3f9de0a5ad4aa67c5bf8055cf76292",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/distance_depth_predictions.csv",
+      "bytes": 2317536,
+      "sha256": "9d37ce3d0493bb5336ee454005383aade3168735f937449e92a8fc68efc0a9f5",
+      "git_blob_sha1": "8e05c4fae63eec0a7dd8a96b4789303c4e381c0c",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/distance_depth_predictions.jsonl",
+      "bytes": 2955322,
+      "sha256": "0cbd6bd1d6b26f738e6f50b2a220272b589a3feb0cd870977d28009281a3def6",
+      "git_blob_sha1": "e9f85c0aba10868a13cab3b8cccea4169c853677",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/ego_relative_spatial_predictions.csv",
+      "bytes": 1932500,
+      "sha256": "9cf656c8715d0fa0957b93e55b03e6f2eafb6458c83df402a77a6412d8304280",
+      "git_blob_sha1": "e0fbbb4d4dd08d32de487f7d6cc183214de5c095",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2568172,
+      "sha256": "83abaf4ee295ee572652f9a21dff48bcd536ee5d2ff53929485ee9dff64c75b6",
+      "git_blob_sha1": "ef33e0eab06dee6714d66b4b633c46540b5de1e9",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/motion_action_predictions.csv",
+      "bytes": 1411172,
+      "sha256": "86e92c58f9c0e7d183c63a2cd4f69b4010abae6ec83e41d6d0da5cddec104aaf",
+      "git_blob_sha1": "8ba570073ba49159007e4ae2362f1720b4da3f84",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/motion_action_predictions.jsonl",
+      "bytes": 2032970,
+      "sha256": "a16196ae1d0977243d247b811589ec6d91b96c17ba7f4001b977653faeee9a2f",
+      "git_blob_sha1": "549a73b7cd32b7fada78a7deb0b665f794cb555c",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/object_existence_predictions.csv",
+      "bytes": 1773271,
+      "sha256": "198f46ff4206bf6dc80f67666b1bf69f81cbcd2be50b6e4580011d6f1564f069",
+      "git_blob_sha1": "575fb4872234e483ac79a6233454c4486afee347",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/object_existence_predictions.jsonl",
+      "bytes": 2409069,
+      "sha256": "bd673f273ddb141dc84d84f47f16a32e2091668807aeb650b59838cb830dcfb7",
+      "git_blob_sha1": "947ded13d95c62586ea0de903d7b71be991431d0",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/temporal_grounding_predictions.csv",
+      "bytes": 2887878,
+      "sha256": "166b3d0157957866575abbd35df55b8eaa1d7611d0d58a3078ef20f8c1c8f451",
+      "git_blob_sha1": "0d5b55084759be3f7379f32b40daddf55fc2cc61",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_no_position_bias_metatoken/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/temporal_grounding_predictions.jsonl",
+      "bytes": 3533676,
+      "sha256": "527886500081d1c7486c8dee810442297b9de230986abfdb3a2ebbad9dfe182f",
+      "git_blob_sha1": "385e16ee179b8527eacadd027f60a1bc1954c811",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/distance_depth_predictions.csv",
+      "bytes": 1463640,
+      "sha256": "fcbaa8c46bae94d98409d670ea6ed53099d3599c817083c08f293ad8c5cf6c49",
+      "git_blob_sha1": "600f1283ad72e58e737b2c6d0ef287f405fa66e8",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/distance_depth_predictions.jsonl",
+      "bytes": 2259376,
+      "sha256": "89f23cdb13435dc16513808f3d2fb40f9482099381f5a5e96bd15680df6b66ae",
+      "git_blob_sha1": "cc2809b6594b545e8f36b4bd5a1ced2dbdfd804b",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/ego_relative_spatial_predictions.csv",
+      "bytes": 1292228,
+      "sha256": "1f7860af98a75e12c56edfe530474f16aaf60b965e3955ff198eb55179b618f5",
+      "git_blob_sha1": "e9dfa30b501836fb3c0736e4f78ec39b129c2959",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2085964,
+      "sha256": "673fb10e5ad12430fffb2c09a4d1e3bdcf71026c5950791f3475205c292e3ac9",
+      "git_blob_sha1": "a175812810c0afe1118757ced9966d5674676c3c",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/motion_action_predictions.csv",
+      "bytes": 991147,
+      "sha256": "35269fdfd904e01a58ca524d7d269f55053a59ee60055211eab2630140ec4e0f",
+      "git_blob_sha1": "219f66eec0216da1a9d3fc26d1b71197426eb88a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/motion_action_predictions.jsonl",
+      "bytes": 1770883,
+      "sha256": "48d638162bcef1dc331531298fa2c54c1e608211c346fb8f0a0adce9b7e2f72f",
+      "git_blob_sha1": "7be2092f009ce36128e51285f420dfd38a0fd0a0",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/object_existence_predictions.csv",
+      "bytes": 1146301,
+      "sha256": "97b4b1b482f41afa6d63b344c329d040f92e4daa6daa9a867a315ac17c54e701",
+      "git_blob_sha1": "e77b2942dad5e7f5b313f6c358225355ae4f8576",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/object_existence_predictions.jsonl",
+      "bytes": 1940037,
+      "sha256": "87a7e8124f88f9130cb69338a79a3235d634d7622e22238c4b9b68195c860107",
+      "git_blob_sha1": "24ff944e3ae47659abe9d2f1dd7ab7651c9be79f",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/temporal_grounding_predictions.csv",
+      "bytes": 2014656,
+      "sha256": "56a6579877fbd782e7fcf6257dc2d8c3a39d15781fcc277efd57c0fc087b9926",
+      "git_blob_sha1": "06c6b1715e7274d553804ece116521cf2f0edb98",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/temporal_grounding_predictions.jsonl",
+      "bytes": 2818392,
+      "sha256": "bebea61dd208cf2bd6dc082b3987f6de45357b20ebe7a277f581257b73a98e58",
+      "git_blob_sha1": "39e8e27b23705846a441e5aca0819c978499812a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/distance_depth_predictions.csv",
+      "bytes": 1463602,
+      "sha256": "7f40f4872f2a67aaab1ee6935fec18d60c2a17adbe43ad546678548da7153b8d",
+      "git_blob_sha1": "64d1bc870d11f8da03d3778ab0aaf999faca1b90",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/distance_depth_predictions.jsonl",
+      "bytes": 2259338,
+      "sha256": "90e6e8866c0eca99881a0c38381c113cfd3ea3a6b817130a7b9282f6b3d6a6ee",
+      "git_blob_sha1": "4b7839c9b12d050299bece74979baa5e82388267",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/ego_relative_spatial_predictions.csv",
+      "bytes": 1292215,
+      "sha256": "caab9154db906e038c0d0ce59327ce88a6cae9c3a2f5b9ec697a399906c9102c",
+      "git_blob_sha1": "24b9a2363c582918a7c5847ebfb3437f4e3b57aa",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2085951,
+      "sha256": "335d3b12ec967f680a7675ae28bd9437587ad227b571dba406b7e5af9746c096",
+      "git_blob_sha1": "a0b17524169ecd80052f0cac0eb8f9972d16f660",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/motion_action_predictions.csv",
+      "bytes": 991143,
+      "sha256": "97deb7bbb2590a6b97a5e632a2b735bf965e43c96eb9563ef0696c5552d5914c",
+      "git_blob_sha1": "219d863d894317d236218bbb127e23c612d2bd46",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/motion_action_predictions.jsonl",
+      "bytes": 1770879,
+      "sha256": "85530c67f151fd239f72e23e9a6b0da70d337c0a000a26ced40e33b68b95f5f4",
+      "git_blob_sha1": "334a4d5227750bd1eccf9cf766b177dd6228a04a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/object_existence_predictions.csv",
+      "bytes": 1146311,
+      "sha256": "f93702960870d8f7a392df11e20e8057ea3f63bd90d73cb331dff69f0249f4f6",
+      "git_blob_sha1": "d4dfa60a1e03ec30b88ee2ce8793a3a78a8198e3",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/object_existence_predictions.jsonl",
+      "bytes": 1940047,
+      "sha256": "dafc05dd9abcb3fe59fda9e8772a20580e6843f7d522f256838250ddffeee756",
+      "git_blob_sha1": "98e54634050ae6c7326c050a74e1831a2d6e42d4",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/temporal_grounding_predictions.csv",
+      "bytes": 2014627,
+      "sha256": "7c605b6989776a1f40e726dc0b4ae4e2eff859a945a4d0af3de2fe646dd91079",
+      "git_blob_sha1": "fcbe1f7ba26ba7b8c4d1b6d8d8873cb73750c3d7",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/temporal_grounding_predictions.jsonl",
+      "bytes": 2818363,
+      "sha256": "af51533ca04e6d59714aad99a4629a83129513deaf69d0a98c2cde6574c4a065",
+      "git_blob_sha1": "acb2bbf90916ea94f28ae8baa485dff18a57a8ed",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/distance_depth_predictions.csv",
+      "bytes": 2198487,
+      "sha256": "a33386cb95e38d78b1cd9e9220fa2b3a13bb9e69c3d0a2ad22be4c3ab028a80b",
+      "git_blob_sha1": "6d207dff3f34006e27f8f0533d77d3f12e7703c7",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/distance_depth_predictions.jsonl",
+      "bytes": 3000223,
+      "sha256": "4bd1bec908c192a00896506f5728dee5949fa53f96682f6f989644c139476631",
+      "git_blob_sha1": "72e9ea594cf3c230b326578f8734830eb85886ef",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/ego_relative_spatial_predictions.csv",
+      "bytes": 2024272,
+      "sha256": "54ec3d7610f091b0939428b58cd93462cb48a7b9baa932402d2d4fa9bb484a11",
+      "git_blob_sha1": "f21b1ada6dec8a6c917e4a87313249300558753a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2824002,
+      "sha256": "cacef227a53ecd8066f67a91af327c68c2da840647d661df159dbeefcfe5d39c",
+      "git_blob_sha1": "a01524d5b137e57dcf77032db5f3372ea06a85d8",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/motion_action_predictions.csv",
+      "bytes": 1725168,
+      "sha256": "323822345ae108e948c9b3a5583446bdd95417a7aeb386f68c80ae87f43b2d1b",
+      "git_blob_sha1": "2c1729a6d80d05cf8f9400c7b2a29093d6ed4e9c",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/motion_action_predictions.jsonl",
+      "bytes": 2510904,
+      "sha256": "4b665163c8539bf82a89675a0282efeddb7c05d96166b66ff5cb0d2878366a4d",
+      "git_blob_sha1": "813a85fdb6ff9e6dd4c4ea7d60ed839eaf3157dd",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/object_existence_predictions.csv",
+      "bytes": 1873302,
+      "sha256": "0b213ddcfe512e7619bd031fdc54f71edb2cbbefc637167d813582461e3c77af",
+      "git_blob_sha1": "190b03e63bd81d5f19f0427e66c439745f6e5be6",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/object_existence_predictions.jsonl",
+      "bytes": 2673038,
+      "sha256": "43acc54f2cd6b772677e416a19edae6b7d82703effdb8e66df664ec25cd6713c",
+      "git_blob_sha1": "05d2c01c0c1683b04a6e07afcc59238daec0a3f8",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/temporal_grounding_predictions.csv",
+      "bytes": 2739787,
+      "sha256": "75902aa3363e3b8a0f4cba32ddeeb20fdda61488e626e36ec7764ec22611e9f7",
+      "git_blob_sha1": "2b34389877d4f0935dde264268f57a7da76d6f90",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/temporal_grounding_predictions.jsonl",
+      "bytes": 3549523,
+      "sha256": "adabbaec89ad277414cb0a7d310fb1b2c8d0022b0defe397aec31b8c6f54d5f5",
+      "git_blob_sha1": "63eb1e2df7d1500613e1129be5d0a547bb463367",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/distance_depth_predictions.csv",
+      "bytes": 1463647,
+      "sha256": "d29f56b0db3e1d4198ce7a3985e5d3657df5d5962ee973a576e7e627285448a6",
+      "git_blob_sha1": "4537193087891d95d48bd2b9f3d3c3d2eaccf38b",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/distance_depth_predictions.jsonl",
+      "bytes": 2259383,
+      "sha256": "13a0a2bc4606868c4f9bd2976f62c7fc05f72e73947f5c160f4dfb5c7d04d4ec",
+      "git_blob_sha1": "956504ae41cfc49fb3bcadccdca7f0a1b6cf3144",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/ego_relative_spatial_predictions.csv",
+      "bytes": 1292219,
+      "sha256": "661665c02b641fc7df8377c5ec69a719295f6515f0f692d941a6435c33495861",
+      "git_blob_sha1": "c567f90bbcbcbaccc76e6a0dd62b1a3bd926f102",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2085955,
+      "sha256": "6c27746b2731ed48ab0bd43708bf16daba0e3315449d2524767db7651668deb8",
+      "git_blob_sha1": "21ad0ba26624062332421c3de0a8a77fff9037db",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/motion_action_predictions.csv",
+      "bytes": 991140,
+      "sha256": "192e1e93ca376ff131964b4889fcbf942891da9aedfa3f52ac339b9542bc5a00",
+      "git_blob_sha1": "a49ab2c14490075a4da64d548bd0cf4afd8c1dda",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/motion_action_predictions.jsonl",
+      "bytes": 1770876,
+      "sha256": "af4d3c842cab2faab5719a1631ddbfda156eb3897f0a14202d7a4fcc87058f27",
+      "git_blob_sha1": "f9e8ec93eca190ca1e24702f1cdc4e0589db61e9",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/object_existence_predictions.csv",
+      "bytes": 1146294,
+      "sha256": "168aacea029be1bc01f22af1f65bad8f4d04eeb6f3e4c2ecc2152270ef78ff37",
+      "git_blob_sha1": "b86121be93ea33f532a9578e9ef2a179d25faffa",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/object_existence_predictions.jsonl",
+      "bytes": 1940030,
+      "sha256": "770921bd0b5d513735ee62b85cc94f04ac39fc34431cbcb13783a9f23218b48d",
+      "git_blob_sha1": "908f35d82f137f40cd0718f64693e81c65c74c50",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/temporal_grounding_predictions.csv",
+      "bytes": 2014685,
+      "sha256": "5f08534c489498192a04698b4cbeccec7ddbbe34fa2daf77b6dac408930893d0",
+      "git_blob_sha1": "be637dd8c70e7a88ed8fe17f058231cf3cd7401e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/temporal_grounding_predictions.jsonl",
+      "bytes": 2818421,
+      "sha256": "bbbb9d75609a2c5ca67281b2ce081b3b82a9ea760bc77153bf2ef81c34d1e2cd",
+      "git_blob_sha1": "64e62fb716ca89dcd187b91f7341336d91f70436",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/distance_depth_predictions.csv",
+      "bytes": 2198461,
+      "sha256": "73aa87ad794cb87a5029377fc74542e30c26a51d038dcd551f78d9544d125f0c",
+      "git_blob_sha1": "52b1d5e8967bb8fcc54f9de9ba11fdbc5a19bc37",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/distance_depth_predictions.jsonl",
+      "bytes": 3000197,
+      "sha256": "a0c8338f8dbaf9861820c462fe7ba7392af600ca6e8e0a6ac6f794fba6306cb7",
+      "git_blob_sha1": "4379cd7e885ea609cf2b5074ac2b78af37bf006a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/ego_relative_spatial_predictions.csv",
+      "bytes": 2024178,
+      "sha256": "bee47fae0f5e9f5042258972f00107cc1b285a98f3c08806d25cb123b16d266d",
+      "git_blob_sha1": "031617a54a90a8b3ddefc8958d74e7cb892af6f1",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2823908,
+      "sha256": "ca3cb6249670ddd82077c6789c33c355951fb9a1dbf2ec7023ba847fe29335df",
+      "git_blob_sha1": "61329dcb47f3bdcd4d27da288f433c2324890b29",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/motion_action_predictions.csv",
+      "bytes": 1725169,
+      "sha256": "78fa6286c4eb6b5c863dc618d3cbf7eb54e943d3dfe6924dcb21d6f0816e658c",
+      "git_blob_sha1": "aa61c8b1e31e27a4c218a09883dccc0875bb3ae3",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/motion_action_predictions.jsonl",
+      "bytes": 2510905,
+      "sha256": "18eb051f2044b8db2664c7a1618a5c947be1c17b43d77498e648cfa819f33174",
+      "git_blob_sha1": "9b938c3722a6babde3fded4e741356509a208f13",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/object_existence_predictions.csv",
+      "bytes": 1873272,
+      "sha256": "f90d3b08f00ff94ee3be6428ed84049049c162a51e27901206930059a0fb79fd",
+      "git_blob_sha1": "b0dbc3f3137f7df03498ce450645e16e9fe96090",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/object_existence_predictions.jsonl",
+      "bytes": 2673008,
+      "sha256": "a9632d90614dabac3d1853d15f7a65bc86e71e364a2eefa102a3d1311d0bbbf4",
+      "git_blob_sha1": "f55fc2ee1770707c86d8932655d4681826964350",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/temporal_grounding_predictions.csv",
+      "bytes": 2739874,
+      "sha256": "98821981478801a3b31f488f9491cd3ec23efe597af359aa0591f052bcc4196f",
+      "git_blob_sha1": "82d2939fc45e2440d68d3f21589cfe0a1ba7604e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/temporal_grounding_predictions.jsonl",
+      "bytes": 3549610,
+      "sha256": "a4bb1c75d0e5ab15032b3f95166e23d081cc70d80dd4e9ba03d54e8fb0c2b20f",
+      "git_blob_sha1": "f5fd3f71ae50bd6f751c92174cefb26f919b1602",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/distance_depth_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/distance_depth_predictions.csv",
+      "bytes": 2198457,
+      "sha256": "7ffb4606514784722a06dccd663ee577537b36ebd4f0f5cf098e14fd3139485f",
+      "git_blob_sha1": "8b4e9fcdc93145a399003c6f8fe2f5bd37b93b45",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/distance_depth_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/distance_depth_predictions.jsonl",
+      "bytes": 3000193,
+      "sha256": "68e452e0121cbdb8265f458949fd316c6eedddfa23fdc464f032069cd49aaeed",
+      "git_blob_sha1": "b452bb0955a8c780ad16696f9e8ea9fb00c73f9a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/ego_relative_spatial_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/ego_relative_spatial_predictions.csv",
+      "bytes": 2024254,
+      "sha256": "9209ec10d524701566c421fee506013efe22a7fed5adfa137aeccaefeb5ddbc0",
+      "git_blob_sha1": "89a14a072229209e8d6bd27232b43c6f47e1abfb",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/ego_relative_spatial_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/ego_relative_spatial_predictions.jsonl",
+      "bytes": 2823984,
+      "sha256": "570884a2c99ac1e2220d8334ad79e3ff2faf6cd1b83e8c8c358bd492507d860d",
+      "git_blob_sha1": "09276c65c362e0214112272c281a64b166b5e487",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/motion_action_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/motion_action_predictions.csv",
+      "bytes": 1725167,
+      "sha256": "1889aa623cac39c87cc2d36ce0bcc0326bbe9bb23d1bd65c4dab97467986c07a",
+      "git_blob_sha1": "c9808661d22579057800712bc92d277bca35a85a",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/motion_action_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/motion_action_predictions.jsonl",
+      "bytes": 2510903,
+      "sha256": "b77a5a63dbc627457d87aaf73dadde2eca3fe82047bdaa7c15c88c020ca48f2f",
+      "git_blob_sha1": "9640b6f9c0a5006baf364076a872a5e7f2bd8a8e",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/object_existence_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/object_existence_predictions.csv",
+      "bytes": 1873289,
+      "sha256": "17f27f38a76d631a100a035f0638931e4d2ee866ad8142dcf6a819c0ec5cf56f",
+      "git_blob_sha1": "fb61b38acaa7afb63b9b773de5f1d279fe4a4eeb",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/object_existence_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/object_existence_predictions.jsonl",
+      "bytes": 2673025,
+      "sha256": "ef927d57aabd84647f912f9d0a3d7d79726391c29c34a26adc7b18d8f45acab9",
+      "git_blob_sha1": "53b501413c802e939f4b1dc1cd0773c2852d69db",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/temporal_grounding_predictions.csv",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/temporal_grounding_predictions.csv",
+      "bytes": 2739729,
+      "sha256": "15e5dbacdd61b0f7c15e577e84a0a6ed1d686e6cd70d8a71a3814deba9445de8",
+      "git_blob_sha1": "c3fa6325d038e37c10d17808dae0c4bfc68c62ea",
+      "records": 2000
+    },
+    {
+      "path": "data/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/temporal_grounding_predictions.jsonl",
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/temporal_grounding_predictions.jsonl",
+      "bytes": 3549465,
+      "sha256": "b1aae32bea4205fb5f1b363bf16f67a575a83fc28736506ce4a1e73cc61fd493",
+      "git_blob_sha1": "8e36238fd25fae828ef0d039b001e4faf837836d",
+      "records": 2000
+    }
+  ],
+  "excluded_os_metadata": [
+    {
+      "archive": "b4dl_dataset.zip",
+      "member": "__MACOSX/b4dl_dataset/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_dataset.zip",
+      "member": "b4dl_dataset/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2/._distance_depth_predictions.csv"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_metatoken/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_no_position_bias/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_no_position_bias_metatoken/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_temporal_shuffle_cd/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "__MACOSX/b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/._.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_metatoken/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_no_position_bias_metatoken/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha05_metatoken/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_alpha15_metatoken/.DS_Store"
+    },
+    {
+      "archive": "b4dl_eval.zip",
+      "member": "b4dl_eval/hallucination_v2_temporal_shuffle_cd_metatoken/.DS_Store"
+    }
+  ],
+  "counts": {
+    "status": "PASS",
+    "unique_questions": 10000,
+    "unique_scenes": 150,
+    "question_variants": 4,
+    "question_records_all_variants": 40000,
+    "model_configurations": 2,
+    "conditions_per_configuration": 5,
+    "prediction_runs": 10,
+    "unique_saved_predictions": 100000,
+    "benchmark_json_files": 20,
+    "prediction_jsonl_files": 50,
+    "prediction_csv_files": 50,
+    "csv_duplicates_jsonl_records": true,
+    "logged_inference_errors": 0,
+    "reference_matching": "All predictions match exact question, prompt, options and answer.",
+    "scope": "All outputs in the supplied thesis archives, not unprovided experiments or logits."
+  }
+}

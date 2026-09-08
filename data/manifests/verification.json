@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "unique_questions": 10000,
+  "unique_scenes": 150,
+  "question_variants": 4,
+  "question_records_all_variants": 40000,
+  "model_configurations": 2,
+  "conditions_per_configuration": 5,
+  "prediction_runs": 10,
+  "unique_saved_predictions": 100000,
+  "benchmark_json_files": 20,
+  "prediction_jsonl_files": 50,
+  "prediction_csv_files": 50,
+  "csv_duplicates_jsonl_records": true,
+  "logged_inference_errors": 0,
+  "reference_matching": "All predictions match exact question, prompt, options and answer.",
+  "scope": "All outputs in the supplied thesis archives, not unprovided experiments or logits."
+}
