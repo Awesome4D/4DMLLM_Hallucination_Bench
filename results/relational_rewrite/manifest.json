@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "source_commit": "00fd7347d5ddc3236c235223067a612e295fd1f1",
+  "new_neural_inference": false,
+  "source_hashes": {
+    "scripts/relational_audit/analyze_prompt_matched_pairs.py": "7aa25a98ebe46ae80220b456139e6c7b40ae977d1e4500f105c6ad1696723046",
+    "scripts/relational_audit/analyze_rewrite.py": "e19d352a360cedfd24fa29af8b3949e7a8d4cc45c0ac22243032cad4d4f54b54",
+    "scripts/relational_audit/test_contracts.py": "95d10294426eebb9551f7b992b1143995907bd990847b35a53784293bfdbe97e"
+  },
+  "output_hashes": {
+    "results/relational_rewrite/accuracy.csv": "ed4fa02890dcf9dedc10fea85272a705b591ae7095116bc955882a0249a0215b",
+    "results/relational_rewrite/audit.json": "01aebde6def87fb38531422010926f5c027819de308eec94122e2197007801cf",
+    "results/relational_rewrite/binary.csv": "18679efe6bab4b292a75102ec46233aaf57b41e3833b7a30024e8d0a0426eae4",
+    "results/relational_rewrite/motion_predicates.csv": "c4b51fc9f1643704b4709742a70d9d582d0357b4b36144365d95428c5ec1a820",
+    "results/relational_rewrite/paired.csv": "3e900b00e9fa6f853582ea213be1ef95285db1ea085c095d602aa8bdd4570485",
+    "results/relational_rewrite/priors.csv": "f9e24a39abb5844816375e95620ec373d3228d7d956886bdc45438fbdc392250",
+    "results/relational_rewrite/prompt_matched_pairs_Meta.jsonl": "8754c99dcc832c1da8a97ace53754068c1bda6c7e6323f437cb85be51d8967e9",
+    "results/relational_rewrite/prompt_matched_pairs_NoMeta.jsonl": "0d11a279ae04f363ee07d8c7633f85acc27abe8c989eb47025c26642fd689a16",
+    "results/relational_rewrite/prompt_matched_results.csv": "1a1c4f9a60ac1f39a722efcdffdd4d4301ed972193e61487b72bf3a83697c6e5",
+    "results/relational_rewrite/prompt_matched_summary.json": "0c573a8e079738bfd98aa8a7a2b807839dc479f2b2cfec992b3cf4c09e9089c6",
+    "results/relational_rewrite/tests.txt": "fa7afbd9b21aa501f281a2b786a443fd501ba93d1adfcff4eecc594adbe15943"
+  }
+}

@@ -1,0 +1,13 @@
+test_deterministic_prompt_only_pair (__main__.AlgebraTests.test_deterministic_prompt_only_pair) ... ok
+test_explicit_parser (__main__.AlgebraTests.test_explicit_parser) ... ok
+test_pairwise_margin_condition (__main__.AlgebraTests.test_pairwise_margin_condition) ... ok
+test_shared_component_retained (__main__.AlgebraTests.test_shared_component_retained) ... ok
+test_shared_shift_preserves_distribution (__main__.AlgebraTests.test_shared_shift_preserves_distribution) ... ok
+test_lateral_collapse_all_ten_runs (__main__.ArchivedDataTests.test_lateral_collapse_all_ten_runs) ... ok
+test_pair_counts_are_prediction_independent (__main__.ArchivedDataTests.test_pair_counts_are_prediction_independent) ... ok
+test_maximum_disjoint_matching_and_exact_inputs (__main__.PairingTests.test_maximum_disjoint_matching_and_exact_inputs) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.528s
+
+OK
