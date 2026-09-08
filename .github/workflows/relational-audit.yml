@@ -1,0 +1,54 @@
+name: Reproduce relational contrasts and predicate audit
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/relational_audit/**', '.github/workflows/relational-audit.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: relational-audit
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      OPENBLAS_NUM_THREADS: '1'
+      LIDAR_HALLU_DATA: data
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install -e '.[test]'
+      - name: Verify original archives and all exact contracts
+        run: |
+          set -euo pipefail
+          python scripts/materialize_paper_data.py
+          mkdir -p results/relational_rewrite
+          python scripts/relational_audit/test_contracts.py 2>&1 | tee results/relational_rewrite/tests.txt
+      - name: Recompute retained predictions and construct contrasts
+        run: |
+          set -euo pipefail
+          python scripts/relational_audit/analyze_rewrite.py --data data --output results/relational_rewrite
+          python scripts/relational_audit/analyze_prompt_matched_pairs.py --data data --output results/relational_rewrite
+      - name: Record reproducibility and commit derivative evidence
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib,json,subprocess
+          folder=Path('results/relational_rewrite')
+          files={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(folder.iterdir()) if p.is_file() and p.name!='manifest.json'}
+          source={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(Path('scripts/relational_audit').glob('*.py'))}
+          record={'status':'PASS','source_commit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),'new_neural_inference':False,'source_hashes':source,'output_hashes':files}
+          (folder/'manifest.json').write_text(json.dumps(record,indent=2)+'\n')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add results/relational_rewrite
+          if ! git diff --cached --quiet; then
+            git commit -m 'Reproduce exact-prompt cross-scene contrasts and lateral-relation failures [skip ci]'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
