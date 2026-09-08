@@ -2,5 +2,24 @@ __pycache__/
 *.pyc
 .pytest_cache/
 *.egg-info/
-data/
 .venv/
+.DS_Store
+__MACOSX/
+
+# Keep raw sensors, feature caches, local manifests, and future runs local.
+/data/*
+!/data/README.md
+!/data/archives/
+!/data/b4dl_dataset/
+!/data/b4dl_eval/
+!/data/manifests/
+/data/archives/*
+!/data/archives/b4dl_dataset.zip
+!/data/archives/b4dl_eval.zip
+/checkpoints/
+/base_model/
+/features/
+/b4dl/stage1_features/
+/b4dl/stage2_features/
+/results_reproduced/
+/predictions_new/
